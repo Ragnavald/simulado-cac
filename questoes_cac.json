@@ -1,0 +1,4532 @@
+{
+  "titulo": "Banco de questões – Capacidade técnica para manuseio de arma de fogo (CAC/PF)",
+  "gerado_em": "2026-10-23",
+  "formato": {
+    "tipo": "multipla_escolha | verdadeiro_falso",
+    "resposta": "letra da alternativa correta (multipla_escolha) ou true=Verdadeiro/Certo, false=Falso/Errado (verdadeiro_falso)",
+    "alternativas": "lista de {letra, texto}; null nas questões de verdadeiro ou falso",
+    "origem": "banco_de_questoes (extraída do HTML) | gerada_apostila (criada a partir da cartilha)",
+    "gabarito_origem": "fornecido (gabarito do simulado original) | inferido (original sem gabarito) | revisado (gabarito original corrigido ou questão adaptada) | gerado",
+    "desatualizada": "true quando a resposta depende de norma revogada ou alterada"
+  },
+  "total": 202,
+  "questoes": [
+    {
+      "id": "BQ-001",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado preparatório (Legislação Aplicada)",
+      "tema": "Legislação",
+      "tipo": "multipla_escolha",
+      "enunciado": "De acordo com as definições técnicas dos Decretos 9.845/2019 e 9.847/2019, qual característica define se uma arma de alma raiada é de uso restrito ou permitido?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Calibre real."
+        },
+        {
+          "letra": "b",
+          "texto": "Energia cinética atingida na saída do cano de prova."
+        },
+        {
+          "letra": "c",
+          "texto": "Comprimento do cano."
+        },
+        {
+          "letra": "d",
+          "texto": "País de fabricação."
+        }
+      ],
+      "resposta": "b",
+      "justificativa": "A classificação das armas de alma raiada como de uso permitido ou restrito é feita pela energia cinética da munição comum medida na saída do cano de prova (em joules ou libras-pé), e não pelo calibre nominal ou pelo comprimento do cano. Esse critério de energia foi mantido pelo Decreto 11.615/2023, com novos limites.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false,
+      "observacao": "Os Decretos 9.845/2019 e 9.847/2019 foram revogados pelo Decreto 11.615/2023."
+    },
+    {
+      "id": "BQ-002",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado preparatório (Legislação Aplicada)",
+      "tema": "Legislação",
+      "tipo": "multipla_escolha",
+      "enunciado": "Em relação à legislação para o registro e porte de arma de fogo, assinale a opção CORRETA:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "O Estatuto do Desarmamento considera que o Certificado de Registro de Arma de Fogo tem validade em todo o território nacional."
+        },
+        {
+          "letra": "b",
+          "texto": "O laudo de capacidade psicológica, o comprovante de residência certa e ocupação lícita, as certidões de idoneidade e o laudo de capacidade técnica deverão ser comprovados periodicamente, a cada cinco anos, junto à Polícia Federal, para fins de renovação do CRAF."
+        },
+        {
+          "letra": "c",
+          "texto": "O Estatuto do Desarmamento exige para aquisição de arma de fogo apenas teste de capacidade de manuseio, laudo de sanidade mental e certidões negativas."
+        },
+        {
+          "letra": "d",
+          "texto": "A Lei 10.286/03 proibiu o porte de arma de fogo para a categoria defesa pessoal, permitindo-o apenas aos servidores públicos com previsão de porte em legislação própria."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "O art. 5º da Lei 10.826/2003 diz que o CRAF, com validade em todo o território nacional, autoriza o proprietário a manter a arma em sua residência ou local de trabalho. A alternativa (b) fixa um prazo que não está no texto da Lei; a periodicidade é definida em regulamento. A (c) omite requisitos do art. 4º, como ocupação lícita e residência certa. A (d) cita uma lei inexistente, e a lei não proibiu o porte para defesa pessoal.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-003",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado preparatório (Legislação Aplicada)",
+      "tema": "Legislação",
+      "tipo": "multipla_escolha",
+      "enunciado": "Conforme o art. 2º da Lei 10.826/03, são competências do SINARM, EXCETO:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Cadastrar as armas de fogo produzidas, importadas e vendidas no País."
+        },
+        {
+          "letra": "b",
+          "texto": "Identificar as características e a propriedade de armas de fogo, mediante cadastro."
+        },
+        {
+          "letra": "c",
+          "texto": "Autorizar e fiscalizar a produção, exportação, importação, desembaraço alfandegário e o comércio de armas de fogo e demais produtos controlados."
+        },
+        {
+          "letra": "d",
+          "texto": "Integrar no cadastro os acervos policiais já existentes."
+        }
+      ],
+      "resposta": "c",
+      "justificativa": "Autorizar e fiscalizar a produção, a exportação, a importação, o desembaraço alfandegário e o comércio de armas e produtos controlados é atribuição do Comando do Exército (art. 24 da Lei 10.826/2003), e não do SINARM. As demais alternativas constam do art. 2º.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-004",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado preparatório (Legislação Aplicada)",
+      "tema": "Legislação",
+      "tipo": "multipla_escolha",
+      "enunciado": "De acordo com o Decreto 9.845/2019, para fins de aquisição de arma de fogo de uso permitido e de emissão do CRAF, o interessado deverá:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Comprovar a efetiva necessidade."
+        },
+        {
+          "letra": "b",
+          "texto": "Ter, no mínimo, vinte anos de idade."
+        },
+        {
+          "letra": "c",
+          "texto": "Comprovar a aptidão psicológica para o manuseio de arma de fogo, atestada em laudo conclusivo fornecido por qualquer psicólogo."
+        },
+        {
+          "letra": "d",
+          "texto": "Apresentar documento comprobatório de ocupação lícita e de residência fixa."
+        }
+      ],
+      "resposta": "d",
+      "justificativa": "Ocupação lícita e residência certa são requisitos do art. 4º, II, da Lei 10.826/2003. A idade mínima é 25 anos (art. 28), e não 20. O laudo psicológico deve ser emitido por psicólogo credenciado pela Polícia Federal, e não por qualquer psicólogo. No Decreto 9.845/2019, a efetiva necessidade era declarada pelo interessado, e não comprovada.",
+      "gabarito_origem": "inferido",
+      "desatualizada": true,
+      "observacao": "Os Decretos 9.845/2019 e 9.847/2019 foram revogados pelo Decreto 11.615/2023. Pelo Decreto 11.615/2023, a declaração de efetiva necessidade deve expor fatos e circunstâncias, que são analisados pela PF."
+    },
+    {
+      "id": "BQ-005",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado preparatório (Legislação Aplicada)",
+      "tema": "Legislação",
+      "tipo": "multipla_escolha",
+      "enunciado": "Nos termos do Estatuto do Desarmamento (Lei nº 10.826/2003), a conduta de emprestar a terceiro arma de fogo, sem autorização e em desacordo com determinação legal ou regulamentar, configura o crime de:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Empréstimo ilegal de arma de fogo."
+        },
+        {
+          "letra": "b",
+          "texto": "Omissão de cautela."
+        },
+        {
+          "letra": "c",
+          "texto": "Porte ilegal de arma de fogo."
+        },
+        {
+          "letra": "d",
+          "texto": "Comércio ilegal de arma de fogo."
+        }
+      ],
+      "resposta": "c",
+      "justificativa": "O verbo 'emprestar' está no tipo penal do art. 14 (porte ilegal de arma de fogo de uso permitido) e também no art. 16 (uso restrito). Não existe um crime autônomo de 'empréstimo ilegal'.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-006",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado preparatório (Legislação Aplicada)",
+      "tema": "Legislação",
+      "tipo": "multipla_escolha",
+      "enunciado": "Assinale a alternativa que contém um crime da Lei nº 10.826/03 (Estatuto do Desarmamento) punido com detenção.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Posse irregular de arma de fogo de uso permitido."
+        },
+        {
+          "letra": "b",
+          "texto": "Porte ilegal de arma de fogo de uso permitido."
+        },
+        {
+          "letra": "c",
+          "texto": "Disparo de arma de fogo."
+        },
+        {
+          "letra": "d",
+          "texto": "Comércio ilegal de arma de fogo."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "Posse irregular de arma de uso permitido (art. 12) tem pena de detenção de 1 a 3 anos e multa. Porte ilegal (art. 14), disparo (art. 15) e comércio ilegal (art. 17) são punidos com reclusão. A omissão de cautela (art. 13) também é punida com detenção, mas não aparece entre as alternativas.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-007",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado preparatório (Legislação Aplicada)",
+      "tema": "Legislação",
+      "tipo": "multipla_escolha",
+      "enunciado": "Conforme a Lei 10.826/2003, são vedadas a fabricação, a venda, a comercialização e a importação de brinquedos, réplicas e simulacros de armas de fogo que com estas se possam confundir, exceto os destinados à instrução, ao adestramento ou à coleção de usuário autorizado, nas condições fixadas:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Pela Polícia Militar Estadual."
+        },
+        {
+          "letra": "b",
+          "texto": "Pela Polícia Federal."
+        },
+        {
+          "letra": "c",
+          "texto": "Pelo Comando do Exército."
+        },
+        {
+          "letra": "d",
+          "texto": "Pela Secretaria de Segurança Pública do Estado."
+        }
+      ],
+      "resposta": "c",
+      "justificativa": "Art. 26, parágrafo único, da Lei 10.826/2003: as exceções seguem as condições fixadas pelo Comando do Exército.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-008",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado preparatório (Legislação Aplicada)",
+      "tema": "Legislação",
+      "tipo": "multipla_escolha",
+      "enunciado": "De acordo com a Lei nº 10.826/2003, é de competência da Polícia Federal:\nI. O registro de arma de fogo de uso restrito em qualquer caso.\nII. A expedição do Certificado de Registro de Arma de Fogo.\nIII. O recebimento de armas de fogo entregues pelos possuidores ou proprietários, mediante recibo e indenização.\nEstá correto o que consta APENAS em:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "II e III."
+        },
+        {
+          "letra": "b",
+          "texto": "I e II."
+        },
+        {
+          "letra": "c",
+          "texto": "I e III."
+        },
+        {
+          "letra": "d",
+          "texto": "I."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "O item I está errado, porque o art. 3º, parágrafo único, atribui ao Comando do Exército o registro das armas de uso restrito. Não é 'em qualquer caso' com a PF. O item II está correto, pois o CRAF é expedido pela PF após autorização do SINARM (art. 5º, §1º). O item III também está correto: a entrega voluntária com indenização é feita à PF (arts. 31 e 32).",
+      "gabarito_origem": "inferido",
+      "desatualizada": false,
+      "observacao": "Pelo Decreto 11.615/2023, o controle das armas de CACs passou a ser transferido do Exército para a PF, mas o texto da Lei não mudou."
+    },
+    {
+      "id": "BQ-009",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado preparatório (Legislação Aplicada)",
+      "tema": "Fundamentos do tiro",
+      "tipo": "multipla_escolha",
+      "enunciado": "O que é considerado incidente de tiro?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Aquele que acontece sem o manuseio normal do homem, ou seja, sem que ele efetue o acionamento do gatilho."
+        },
+        {
+          "letra": "b",
+          "texto": "O evento no qual a dificuldade deixa de ser momentânea, pois dele resultam danos na arma e podem resultar, também, lesões ao atirador."
+        },
+        {
+          "letra": "c",
+          "texto": "Aquele produzido em circunstâncias anormais, sem o acionamento regular do mecanismo de disparo, devido a defeitos, falhas ou ausência do mecanismo de segurança da arma."
+        },
+        {
+          "letra": "d",
+          "texto": "Um acontecimento inesperado e indesejável que produz uma interrupção na sequência dos tiros, sem danos materiais e/ou pessoais."
+        }
+      ],
+      "resposta": "d",
+      "justificativa": "Incidente de tiro é a interrupção inesperada da sequência de tiros sem danos materiais ou pessoais, como uma falha de alimentação ou um cartucho que nega fogo. Quando há dano, o evento é chamado de acidente de tiro (alternativa b). As alternativas (a) e (c) descrevem disparos acidentais.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-010",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado preparatório (Legislação Aplicada)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quanto ao sistema de carregamento, as armas de fogo classificam-se em:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Carregador / Tambor."
+        },
+        {
+          "letra": "b",
+          "texto": "Retrocarga / Antecarga."
+        },
+        {
+          "letra": "c",
+          "texto": "Provedor / Câmaras."
+        },
+        {
+          "letra": "d",
+          "texto": "Culatra / Antecarga."
+        }
+      ],
+      "resposta": "b",
+      "justificativa": "A cartilha classifica as armas, quanto ao carregamento, em antecarga (pela boca do cano) e retrocarga (pela parte posterior do cano), que pode ser manual ou automática.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-011",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado preparatório (Legislação Aplicada)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "No REVÓLVER, poderíamos chamar de 'CULATRA' propriamente dita:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Cão."
+        },
+        {
+          "letra": "b",
+          "texto": "Placa de obturação."
+        },
+        {
+          "letra": "c",
+          "texto": "Orelha do cão."
+        },
+        {
+          "letra": "d",
+          "texto": "Cilindro do tambor."
+        }
+      ],
+      "resposta": "b",
+      "justificativa": "No revólver, a parte da armação atrás do tambor que fecha a câmara por trás e apoia a base do cartucho no disparo é a placa de obturação (escudo de recuo). Ela faz o papel de culatra.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-012",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado preparatório (Legislação Aplicada)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "Podemos dizer que a CARABINA é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Arma de fogo longa, de porte e alma raiada ou lisa."
+        },
+        {
+          "letra": "b",
+          "texto": "Arma de fogo longa, de assalto e alma raiada."
+        },
+        {
+          "letra": "c",
+          "texto": "Arma de fogo longa, portátil e alma raiada."
+        },
+        {
+          "letra": "d",
+          "texto": "Arma de fogo longa, de porte e alma raiada."
+        }
+      ],
+      "resposta": "c",
+      "justificativa": "Segundo a cartilha, a carabina é uma arma de fogo portátil, semelhante a um fuzil de dimensões reduzidas, de cano longo e alma raiada. Ela não é 'de porte', categoria das armas curtas portadas em coldre.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-013",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado preparatório (Legislação Aplicada)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "Nas armas com cano de ALMA RAIADA, o CALIBRE REAL medido na boca do cano corresponde ao:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Diâmetro interno da alma do cano, sendo, portanto, uma grandeza concreta."
+        },
+        {
+          "letra": "b",
+          "texto": "Diâmetro oposto da alma do cano, sendo, portanto, uma grandeza concreta."
+        },
+        {
+          "letra": "c",
+          "texto": "Diâmetro circular da alma do cano, sendo, portanto, uma grandeza concreta."
+        },
+        {
+          "letra": "d",
+          "texto": "Diâmetro paralelo da alma do cano, sendo, portanto, uma grandeza concreta."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "Calibre real é a medida do diâmetro interno do cano, tomada entre os cheios. É uma grandeza física concreta, ao contrário do calibre nominal, que é uma designação comercial.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-014",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado preparatório (Legislação Aplicada)",
+      "tema": "Fundamentos do tiro",
+      "tipo": "multipla_escolha",
+      "enunciado": "São movimentos de um projétil expelido por arma RAIADA:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Rotação – Precessão – Nutação (ao sair do cano da arma)."
+        },
+        {
+          "letra": "b",
+          "texto": "Compensação – Passo – Deflagração (diferente de detonação)."
+        },
+        {
+          "letra": "c",
+          "texto": "Choque – Giro (direito/esquerdo) – Poder de parada."
+        },
+        {
+          "letra": "d",
+          "texto": "Rotação – Dextrógiro/Sinistrógiro – Explosão (inicial)."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "Além da translação, o projétil disparado por arma raiada gira em torno do próprio eixo (rotação, dada pelas raias). Ao deixar o cano, o eixo oscila em cone (precessão) e em pequenas ondulações (nutação).",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-015",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado preparatório (Legislação Aplicada)",
+      "tema": "Fundamentos do tiro",
+      "tipo": "multipla_escolha",
+      "enunciado": "De acordo com a definição de INCIDENTE DE TIRO, assinale a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Ocorre quando se produz uma interrupção dos tiros com danos materiais e/ou pessoais por motivos independentes da vontade do atirador."
+        },
+        {
+          "letra": "b",
+          "texto": "Ocorre quando se produz uma interrupção dos tiros sem danos materiais e/ou pessoais por motivos dependentes da vontade do atirador."
+        },
+        {
+          "letra": "c",
+          "texto": "Ocorre quando se produz uma continuação dos tiros sem danos materiais e/ou pessoais por motivos independentes da vontade do atirador."
+        },
+        {
+          "letra": "d",
+          "texto": "Ocorre quando se produz uma interrupção dos tiros sem danos materiais e/ou pessoais por motivos independentes da vontade do atirador."
+        }
+      ],
+      "resposta": "d",
+      "justificativa": "O incidente de tiro tem três elementos: há interrupção dos tiros, não há danos e a causa é alheia à vontade do atirador.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-016",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado preparatório (Legislação Aplicada)",
+      "tema": "Fundamentos do tiro",
+      "tipo": "multipla_escolha",
+      "enunciado": "É uma falha comum em atiradores destros iniciantes: ao imaginar o momento do recuo, o atirador acaba levantando o cano da arma antes do disparo. Onde se concentram os disparos?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "À esquerda e abaixo do centro do alvo."
+        },
+        {
+          "letra": "b",
+          "texto": "Acima e à esquerda do centro do alvo."
+        },
+        {
+          "letra": "c",
+          "texto": "Abaixo e à esquerda do centro do alvo."
+        },
+        {
+          "letra": "d",
+          "texto": "À direita do centro do alvo."
+        }
+      ],
+      "resposta": "b",
+      "justificativa": "Se o cano sobe antes do disparo, os impactos ficam acima do centro. As alternativas (a) e (c) são idênticas e descrevem o oposto, impactos baixos, típicos de 'empurrar' a arma contra o recuo. Por eliminação, a resposta é (b).",
+      "gabarito_origem": "inferido",
+      "desatualizada": false,
+      "observacao": "Questão mal formulada no original: as alternativas (a) e (c) são iguais."
+    },
+    {
+      "id": "BQ-017",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado preparatório (Legislação Aplicada)",
+      "tema": "Fundamentos do tiro",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual dos fatores abaixo pode influenciar a balística externa?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Passo de raiamento do cano."
+        },
+        {
+          "letra": "b",
+          "texto": "Alinhamento da munição no cano."
+        },
+        {
+          "letra": "c",
+          "texto": "Velocidade e posição do vento."
+        },
+        {
+          "letra": "d",
+          "texto": "Consistência dos picos de pressão da carga propelente na câmara."
+        }
+      ],
+      "resposta": "c",
+      "justificativa": "A balística externa estuda o projétil depois que ele sai do cano, sob ação da gravidade, da resistência do ar e do vento. As demais alternativas tratam de fenômenos dentro da arma (balística interna).",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-018",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado preparatório (Legislação Aplicada)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quando o tambor do revólver não abre, uma das causas é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Falta de retém do ferrolho."
+        },
+        {
+          "letra": "b",
+          "texto": "Aperto excessivo do parafuso de fixação da placa da empunhadura."
+        },
+        {
+          "letra": "c",
+          "texto": "Aperto excessivo do parafuso de fixação da dobradiça do tambor."
+        },
+        {
+          "letra": "d",
+          "texto": "Falta de força na mola real."
+        }
+      ],
+      "resposta": "c",
+      "justificativa": "O tambor gira para fora sobre a dobradiça (braço do tambor). Se o parafuso que a fixa estiver apertado demais, o conjunto trava e o tambor não abre. Retém do ferrolho é peça de pistola, e a mola real atua no cão.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false,
+      "observacao": "Gabarito inferido; confira com o material do seu curso."
+    },
+    {
+      "id": "BQ-019",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado preparatório (Legislação Aplicada)",
+      "tema": "Legislação",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "O tipo penal do art. 15 da Lei 10.826/03 prevê pena de reclusão e multa para quem disparar arma de fogo ou acionar munição em lugar habitado ou em suas adjacências, em via pública ou em direção a ela, com a ressalva, que o caracteriza como crime subsidiário, de que a conduta não tenha como finalidade a prática de outro crime.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Esse é o texto do art. 15 (reclusão de 2 a 4 anos e multa). A expressão 'desde que essa conduta não tenha como finalidade a prática de outro crime' torna o tipo subsidiário.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-020",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado preparatório (Legislação Aplicada)",
+      "tema": "Legislação",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quem vender, entregar ou fornecer, ainda que gratuitamente, arma de fogo, acessório, munição ou explosivo a criança ou adolescente, segundo o Estatuto do Desarmamento, incide nas penas do crime de:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Disparo de arma de fogo."
+        },
+        {
+          "letra": "b",
+          "texto": "Omissão de cautela."
+        },
+        {
+          "letra": "c",
+          "texto": "Porte ilegal de arma de fogo de uso permitido."
+        },
+        {
+          "letra": "d",
+          "texto": "Posse irregular de arma de fogo de uso permitido."
+        },
+        {
+          "letra": "e",
+          "texto": "Posse ou porte ilegal de arma de fogo de uso restrito."
+        }
+      ],
+      "resposta": "e",
+      "justificativa": "A conduta está no art. 16, §1º, V, da Lei 10.826/2003, que manda aplicar as mesmas penas da posse ou porte ilegal de arma de uso restrito (reclusão de 3 a 6 anos e multa). Não se confunde com a omissão de cautela (art. 13), em que o dono deixa, por descuido, a arma ao alcance de menor.",
+      "gabarito_origem": "revisado",
+      "desatualizada": false,
+      "observacao": "No original nenhuma das 4 alternativas estava correta. A alternativa (e) foi acrescentada."
+    },
+    {
+      "id": "BQ-021",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado preparatório (Legislação Aplicada)",
+      "tema": "Conduta no estande",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "No estande de tiro, a arma permanecerá SEMPRE DESMUNICIADA E GUARDADA, salvo sob comando expresso do instrutor.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Esta é a regra nº 2 de conduta no estande da cartilha da PF.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-022",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado preparatório (Legislação Aplicada)",
+      "tema": "Conduta no estande",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Todo procedimento de carregar, sacar, descarregar, inspecionar e colocar a arma no coldre será SOB COMANDO DO INSTRUTOR, sempre com o cano apontado para direção segura a critério do instrutor.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Esta é a regra nº 3 de conduta no estande da cartilha da PF.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-023",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado preparatório (Legislação Aplicada)",
+      "tema": "Conduta no estande",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Em caso de qualquer incidente, permaneça DE FRENTE PARA O ALVO, com a arma apontada SEMPRE em direção ao alvo, e levante o braço oposto para que o instrutor possa atendê-lo.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Esta é a regra nº 5 de conduta no estande. Virar-se com a arma na mão para pedir ajuda é perigoso; por isso o atirador fica de frente para o alvo e sinaliza com o braço livre.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-024",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado avaliativo de capacidade técnica (TM Armas)",
+      "tema": "Normas de segurança",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Antes de utilizar uma arma, obtenha informações de como manuseá-la com um instrutor de tiro credenciado pela PF que atue em estande autorizado pela Polícia Civil.",
+      "alternativas": null,
+      "resposta": false,
+      "justificativa": "A norma nº 5 da cartilha manda buscar orientação com instrutor credenciado, e essa parte está certa. O erro está no órgão: estandes de tiro são registrados e fiscalizados pelo Comando do Exército, e não pela Polícia Civil.",
+      "gabarito_origem": "revisado",
+      "desatualizada": false,
+      "observacao": "O gabarito original marcava CORRETA."
+    },
+    {
+      "id": "BQ-025",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado avaliativo de capacidade técnica (TM Armas)",
+      "tema": "Normas de segurança",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Ao sacar ou coldrear uma arma, faça-o sempre com o dedo estendido ao longo da arma.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Norma de segurança nº 7 da cartilha.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-026",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado avaliativo de capacidade técnica (TM Armas)",
+      "tema": "Normas de segurança",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Nunca atire em superfícies planas e duras ou em água, porque os projéteis podem ricochetear.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Norma de segurança nº 14 da cartilha.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-027",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado avaliativo de capacidade técnica (TM Armas)",
+      "tema": "Normas de segurança",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Nunca transporte ou coldreie sua arma com o cão armado.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Norma de segurança nº 27 da cartilha. Com o cão armado, um esbarrão no gatilho pode causar disparo.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-028",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado avaliativo de capacidade técnica (TM Armas)",
+      "tema": "Normas de segurança",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Nunca teste as travas de segurança da arma acionando a tecla do gatilho.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Norma de segurança nº 11. A trava é um dispositivo mecânico que pode falhar (norma nº 12), e testá-la apertando o gatilho expõe você a um disparo.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-029",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado avaliativo de capacidade técnica (TM Armas)",
+      "tema": "Legislação",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "A autorização para o porte de arma de fogo de uso permitido, em todo o território nacional, é de competência da Polícia Federal e somente será concedida após autorização do SINARM.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "É o texto do caput do art. 10 da Lei 10.826/2003.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-030",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado avaliativo de capacidade técnica (TM Armas)",
+      "tema": "Legislação",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "É obrigatório o registro de arma de fogo no órgão competente, sendo o Comando do Exército o responsável pelo registro de armas de uso restrito.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Art. 3º, caput e parágrafo único, da Lei 10.826/2003.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false,
+      "observacao": "O Decreto 11.615/2023 transferiu à PF o controle das armas de CACs, mas a regra da Lei continua a mesma."
+    },
+    {
+      "id": "BQ-031",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado avaliativo de capacidade técnica (TM Armas)",
+      "tema": "Legislação",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Para a aquisição de uma arma de calibre permitido, a idade mínima é de 25 anos.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Art. 28 da Lei 10.826/2003: é vedado ao menor de 25 anos adquirir arma de fogo, salvo os integrantes das instituições previstas em lei.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-032",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado avaliativo de capacidade técnica (TM Armas)",
+      "tema": "Legislação",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "É vedado ao menor de 25 (vinte e cinco) anos adquirir arma de fogo, ressalvados os integrantes das entidades constantes dos incisos I, II, III, V e VI do art. 6º da Lei 10.826/2003.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Art. 28 da Lei 10.826/2003, que excepciona integrantes das Forças Armadas, das polícias e de outras instituições do art. 6º.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-033",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado avaliativo de capacidade técnica (TM Armas)",
+      "tema": "Normas de segurança",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Guarde armas e munições separadamente e em locais fora do alcance de crianças.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Norma de segurança nº 10 da cartilha.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-034",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado avaliativo de capacidade técnica (TM Armas)",
+      "tema": "Legislação",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Para a aquisição de uma arma de calibre restrito, a idade mínima também é de 25 anos.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "A vedação do art. 28 vale para qualquer arma de fogo, seja de uso permitido ou restrito.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-035",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado avaliativo de capacidade técnica (TM Armas)",
+      "tema": "Normas de segurança",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "As travas de segurança da arma devem ser testadas acionando o gatilho, desprezando-se outras regras de segurança.",
+      "alternativas": null,
+      "resposta": false,
+      "justificativa": "As normas nº 11 e 12 da cartilha dizem o oposto: nunca teste a trava pelo gatilho, porque ela é só um dispositivo mecânico e não substitui o bom senso.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-036",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado avaliativo de capacidade técnica (TM Armas)",
+      "tema": "Normas de segurança",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Caso a arma 'negue fogo', mantenha-a apontada para o alvo por aproximadamente 30 segundos, pois em alguns casos pode haver retardo na ignição do cartucho.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Norma de segurança nº 17. O cartucho pode demorar a deflagrar (hang fire), e abrir a arma logo em seguida pode causar acidente.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-037",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado avaliativo de capacidade técnica (TM Armas)",
+      "tema": "Normas de segurança",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Você pode portar sua arma quando estiver sob efeito de substâncias que diminuam sua capacidade de percepção (álcool, drogas ilícitas, medicamentos).",
+      "alternativas": null,
+      "resposta": false,
+      "justificativa": "A norma nº 26 proíbe isso expressamente. Além disso, o porte em estado de embriaguez ou sob efeito de drogas acarreta a perda da autorização.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-038",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado avaliativo de capacidade técnica (TM Armas)",
+      "tema": "Normas de segurança",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Ao pegar ou guardar uma arma, você pode manuseá-la com o dedo no gatilho, desde que o cano esteja apontado para direção segura.",
+      "alternativas": null,
+      "resposta": false,
+      "justificativa": "As normas nº 6 e 7 mandam manter o dedo estendido ao longo da arma até estar apontando para o alvo e pronto para atirar. Apontar para direção segura não dispensa essa regra.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-039",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado avaliativo de capacidade técnica (TM Armas)",
+      "tema": "Conduta no estande",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Todo procedimento de carregar, sacar, descarregar, inspecionar e colocar a arma no coldre será SOB COMANDO DO INSTRUTOR, sem necessidade de observar outras regras de segurança.",
+      "alternativas": null,
+      "resposta": false,
+      "justificativa": "O comando do instrutor não dispensa as normas de segurança. A regra nº 3 exige inclusive o cano apontado para direção segura.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-040",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado avaliativo de capacidade técnica (TM Armas)",
+      "tema": "Conduta no estande",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Havendo mais de um candidato realizando a prova ao mesmo tempo, não é necessário manter o alinhamento lateral com os outros atiradores, pois o instrutor dará ordens individuais.",
+      "alternativas": null,
+      "resposta": false,
+      "justificativa": "A regra nº 6 de conduta no estande manda manter SEMPRE o alinhamento com os outros atiradores, para que ninguém fique à frente da linha de tiro.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-041",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado avaliativo de capacidade técnica (TM Armas)",
+      "tema": "Conduta no estande",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Para a segurança na linha de tiro, é importante que o atirador converse com os demais atiradores, pois o silêncio pode prejudicar a segurança.",
+      "alternativas": null,
+      "resposta": false,
+      "justificativa": "A regra nº 1 diz que o SILÊNCIO é fator preponderante para a segurança e deve ser observado rigorosamente, para que os comandos do instrutor sejam ouvidos.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-042",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado avaliativo de capacidade técnica (TM Armas)",
+      "tema": "Legislação",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Posso realizar disparos com minha arma de fogo em lugar habitado, na via pública ou em direção a ela, e isto não configura crime.",
+      "alternativas": null,
+      "resposta": false,
+      "justificativa": "Essa conduta é o crime de disparo de arma de fogo (art. 15 da Lei 10.826/2003), punido com reclusão de 2 a 4 anos e multa.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-043",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado avaliativo de capacidade técnica (TM Armas)",
+      "tema": "Legislação",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "O proprietário de arma de fogo tem obrigação de comunicar, no prazo de 72 horas, à unidade policial local (boletim de ocorrência) o extravio, furto ou roubo de arma de fogo ou do Certificado de Registro.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "O regulamento obriga o proprietário a registrar ocorrência e comunicar a perda, o furto ou o roubo da arma ou do CRAF à autoridade policial e à PF, para atualização do SINARM. O prazo de 72 horas é o adotado no gabarito original.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false,
+      "observacao": "Confira o prazo no regulamento vigente (Decreto 11.615/2023)."
+    },
+    {
+      "id": "BQ-044",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado avaliativo de capacidade técnica (TM Armas)",
+      "tema": "Legislação",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "As armas de fogo de calibre permitido adquiridas por qualquer cidadão na forma do §1º do art. 4º da Lei 10.826/2003 serão registradas no SIGMA.",
+      "alternativas": null,
+      "resposta": false,
+      "justificativa": "Armas de uso permitido de cidadãos comuns são cadastradas no SINARM, mantido pela Polícia Federal. O SIGMA, do Exército, reunia as armas das Forças Armadas, de CACs e outras categorias específicas.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-045",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado avaliativo de capacidade técnica (TM Armas)",
+      "tema": "Legislação",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "É permitido ao cidadão adquirir, na forma da lei, para fins de defesa, até 04 armas de fogo de calibre permitido por ano no Brasil.",
+      "alternativas": null,
+      "resposta": false,
+      "justificativa": "Não existe a cota de 4 armas por ano. O Decreto 9.845/2019 permitia até 4 armas no total, e o Decreto 11.615/2023 reduziu o limite para defesa pessoal a 2 armas.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false,
+      "observacao": "Os Decretos 9.845/2019 e 9.847/2019 foram revogados pelo Decreto 11.615/2023."
+    },
+    {
+      "id": "BQ-046",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado avaliativo de capacidade técnica (TM Armas)",
+      "tema": "Legislação",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Posso VENDER E ENTREGAR de imediato a minha arma de fogo para quem a comprou, sem que ela esteja devidamente registrada no nome do novo proprietário.",
+      "alternativas": null,
+      "resposta": false,
+      "justificativa": "A transferência de arma registrada depende de autorização prévia do SINARM/PF, e o comprador precisa preencher os requisitos do art. 4º. Entregar a arma antes disso pode configurar crime (arts. 14 e 17).",
+      "gabarito_origem": "revisado",
+      "desatualizada": false,
+      "observacao": "O gabarito original marcava CORRETA, o que é um erro evidente."
+    },
+    {
+      "id": "BQ-047",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado avaliativo de capacidade técnica (TM Armas)",
+      "tema": "Legislação",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "É considerada arma de fogo de calibre permitido a arma de porte cuja munição comum não atinja, na saída do cano de prova, energia cinética superior a 1.200 libras-pé ou 1.620 joules.",
+      "alternativas": null,
+      "resposta": false,
+      "justificativa": "Esse limite valia pelo Decreto 9.847/2019, e por isso o gabarito original marcava CORRETA. Pelo Decreto 11.615/2023, o limite das armas curtas voltou a ser 407 joules (cerca de 300 libras-pé). O limite de 1.620 J vale para armas longas raiadas de repetição.",
+      "gabarito_origem": "revisado",
+      "desatualizada": true,
+      "observacao": "O gabarito original (CORRETA) refletia o Decreto 9.847/2019, já revogado."
+    },
+    {
+      "id": "BQ-048",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado avaliativo de capacidade técnica (TM Armas)",
+      "tema": "Munição",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Munição é um artefato completo, pronto para carregamento e disparo. No caso das pistolas, as munições são compostas por pólvora, estojo e projétil.",
+      "alternativas": null,
+      "resposta": false,
+      "justificativa": "Falta a espoleta (cápsula). Segundo a cartilha, a munição se divide em estojo, espoleta, pólvora e projétil.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-049",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado avaliativo de capacidade técnica (TM Armas)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "As atuais pistolas são armas de fogo de antecarga.",
+      "alternativas": null,
+      "resposta": false,
+      "justificativa": "Pistolas modernas são de retrocarga: o cartucho entra pela parte posterior do cano. Na antecarga, o carregamento é feito pela boca do cano, como nos mosquetes.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-050",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado avaliativo de capacidade técnica (TM Armas)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "A alma do cano de uma pistola é lisa, para evitar acúmulo de sujeira em seu interior.",
+      "alternativas": null,
+      "resposta": false,
+      "justificativa": "As pistolas têm alma raiada. As raias dão rotação ao projétil e o estabilizam na trajetória.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-051",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado avaliativo de capacidade técnica (TM Armas)",
+      "tema": "Legislação",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "As pistolas calibre 9x19 mm são armas de porte de calibre permitido no Brasil.",
+      "alternativas": null,
+      "resposta": false,
+      "justificativa": "Pelo Decreto 9.847/2019 o 9 mm passou a ser permitido, e por isso o gabarito original marcava CORRETA. O Decreto 11.615/2023 fixou em 407 J o limite das armas curtas de uso permitido, e o 9x19 mm voltou a ser de uso restrito.",
+      "gabarito_origem": "revisado",
+      "desatualizada": true,
+      "observacao": "O gabarito original (CORRETA) refletia o Decreto 9.847/2019, já revogado."
+    },
+    {
+      "id": "BQ-052",
+      "origem": "banco_de_questoes",
+      "fonte": "Simulado avaliativo de capacidade técnica (TM Armas)",
+      "tema": "Legislação",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Posso emprestar minha arma de fogo para outra pessoa fazer uso ou guardar.",
+      "alternativas": null,
+      "resposta": false,
+      "justificativa": "Emprestar arma sem autorização está entre os verbos dos crimes dos arts. 14 e 16 do Estatuto, e quem recebe a arma também comete crime.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-053",
+      "origem": "banco_de_questoes",
+      "fonte": "Exercícios de Armamento, Munição e Tiro",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qualquer instrumento ou objeto criado pelo homem com a finalidade específica de ataque ou defesa (para ferir, matar ou causar dano). O texto define:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Arma."
+        },
+        {
+          "letra": "b",
+          "texto": "Forçamento."
+        },
+        {
+          "letra": "c",
+          "texto": "Tiro."
+        },
+        {
+          "letra": "d",
+          "texto": "Projétil."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "Esse é o conceito genérico de arma, do qual a arma de fogo é uma espécie.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-054",
+      "origem": "banco_de_questoes",
+      "fonte": "Exercícios de Armamento, Munição e Tiro",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "Instrumento que emprega a força expansiva dos gases gerados pela combustão da pólvora de um cartucho para lançar projéteis por meio de um cano. Trata-se da:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Arma de corte."
+        },
+        {
+          "letra": "b",
+          "texto": "Arma de fogo."
+        },
+        {
+          "letra": "c",
+          "texto": "Arma de choque."
+        },
+        {
+          "letra": "d",
+          "texto": "Arma fria."
+        }
+      ],
+      "resposta": "b",
+      "justificativa": "A cartilha define arma de fogo como a que arremessa projéteis com a força expansiva dos gases da combustão de um propelente confinado em uma câmara.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-055",
+      "origem": "banco_de_questoes",
+      "fonte": "Exercícios de Armamento, Munição e Tiro",
+      "tema": "Normas de segurança",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Regras básicas de segurança com armas de fogo: Jamais aponte sua arma para alguém se não pretender atirar.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Corresponde à norma nº 1 da cartilha: só aponte a arma para onde pretende atirar.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false,
+      "observacao": "Desmembrada de uma questão de V/F múltipla."
+    },
+    {
+      "id": "BQ-056",
+      "origem": "banco_de_questoes",
+      "fonte": "Exercícios de Armamento, Munição e Tiro",
+      "tema": "Normas de segurança",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Regras básicas de segurança com armas de fogo: Esteja a arma carregada ou não, imagine que a qualquer momento um tiro poderá sair do cano.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Corresponde à norma nº 4: trate a arma como se SEMPRE estivesse carregada.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false,
+      "observacao": "Desmembrada de uma questão de V/F múltipla."
+    },
+    {
+      "id": "BQ-057",
+      "origem": "banco_de_questoes",
+      "fonte": "Exercícios de Armamento, Munição e Tiro",
+      "tema": "Normas de segurança",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Regras básicas de segurança com armas de fogo: Nunca inspecione a arma antes do manuseio ou transporte.",
+      "alternativas": null,
+      "resposta": false,
+      "justificativa": "É o oposto: SEMPRE verifique se a arma está descarregada ao pegá-la (norma nº 19) e antes da limpeza (norma nº 8).",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false,
+      "observacao": "Desmembrada de uma questão de V/F múltipla."
+    },
+    {
+      "id": "BQ-058",
+      "origem": "banco_de_questoes",
+      "fonte": "Exercícios de Armamento, Munição e Tiro",
+      "tema": "Normas de segurança",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Regras básicas de segurança com armas de fogo: Jamais inspecione uma arma pela boca do cano.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Olhar pela boca do cano coloca o rosto na linha de tiro. A inspeção deve ser feita com a arma aberta, pela câmara.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false,
+      "observacao": "Desmembrada de uma questão de V/F múltipla."
+    },
+    {
+      "id": "BQ-059",
+      "origem": "banco_de_questoes",
+      "fonte": "Exercícios de Armamento, Munição e Tiro",
+      "tema": "Normas de segurança",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Regras básicas de segurança com armas de fogo: Mantenha a arma fora do alcance de crianças e de pessoas não habilitadas.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Corresponde à norma nº 10. Deixar a arma ao alcance de menor ou de pessoa com deficiência mental pode configurar omissão de cautela (art. 13).",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false,
+      "observacao": "Desmembrada de uma questão de V/F múltipla."
+    },
+    {
+      "id": "BQ-060",
+      "origem": "banco_de_questoes",
+      "fonte": "Exercícios de Armamento, Munição e Tiro",
+      "tema": "Normas de segurança",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Regras básicas de segurança com armas de fogo: Ao entregar uma arma para alguém, execute a verificação de segurança e mantenha a arma aberta, entregando-a descarregada e sem apontar o cano para a outra pessoa.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Normas nº 15 e 18: entregue a arma descarregada e aberta, e nunca a passe com o cano apontado para quem vai recebê-la.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false,
+      "observacao": "Desmembrada de uma questão de V/F múltipla. O último item foi reescrito, pois o original falava em girar o cano 'voltado para si'."
+    },
+    {
+      "id": "BQ-061",
+      "origem": "banco_de_questoes",
+      "fonte": "Exercícios de Armamento, Munição e Tiro",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "“É um tubo inteiriço de aço especial que tem a finalidade de conter o cartucho, resistir à deflagração e às pressões da carga propulsora, dirigir o projétil da câmara até a boca e orientá-lo em seu movimento de rotação (nos canos raiados).” Trata-se do(a):",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Culatra."
+        },
+        {
+          "letra": "b",
+          "texto": "Raia."
+        },
+        {
+          "letra": "c",
+          "texto": "Cano."
+        },
+        {
+          "letra": "d",
+          "texto": "Alma."
+        }
+      ],
+      "resposta": "c",
+      "justificativa": "A definição é do cano. A alma é o interior do cano, e as raias são os sulcos dentro dele.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-062",
+      "origem": "banco_de_questoes",
+      "fonte": "Exercícios de Armamento, Munição e Tiro",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "Relacione: 1-Cano; 2-Boca do cano; 3-Alma; 4-Raias; 5-Cheios; 6-Calibre.\n( ) Espaços compreendidos entre duas raias.\n( ) Sulcos helicoidais que imprimem movimento giratório ao projétil.\n( ) Diâmetro do cano tomado entre dois cheios opostos.\n( ) Tubo inteiriço de aço que contém o cartucho e dirige o projétil.\n( ) Parte anterior do cano.\n( ) Parte interna da arma (câmara + cano), lisa ou raiada.\nA sequência correta é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "5-4-1-6-2-3"
+        },
+        {
+          "letra": "b",
+          "texto": "4-5-6-1-3-2"
+        },
+        {
+          "letra": "c",
+          "texto": "5-4-6-1-2-3"
+        },
+        {
+          "letra": "d",
+          "texto": "6-5-4-1-2-3"
+        }
+      ],
+      "resposta": "c",
+      "justificativa": "Cheios (5) são os espaços entre raias; raias (4) são os sulcos; calibre (6) é o diâmetro entre cheios; cano (1) é o tubo; boca (2) é a parte anterior; alma (3) é o interior.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-063",
+      "origem": "banco_de_questoes",
+      "fonte": "Exercícios de Armamento, Munição e Tiro",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "“Os ________ não têm raiamento e geralmente são utilizados em armas de caça. ________ são aqueles que utilizam em seu interior um conjunto de ranhuras, nas quais os projéteis se encaixam. A esse conjunto de ranhuras dá-se o nome de ________.”",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Canos lisos – canos raiados – raiamento"
+        },
+        {
+          "letra": "b",
+          "texto": "Canos raiados – raiamento – canos lisos"
+        },
+        {
+          "letra": "c",
+          "texto": "Canos raiados – canos lisos – raiamento"
+        },
+        {
+          "letra": "d",
+          "texto": "Raiamentos – canos raiados – canos lisos"
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "Canos lisos, como os das espingardas, não têm raias. Canos raiados têm ranhuras helicoidais, e o conjunto delas é o raiamento.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-064",
+      "origem": "banco_de_questoes",
+      "fonte": "Exercícios de Armamento, Munição e Tiro",
+      "tema": "Munição",
+      "tipo": "multipla_escolha",
+      "enunciado": "Relacione: 1-Gáugio ou adarme; 2-Forçamento; 3-Munição.\n( ) Diferença entre o diâmetro do projétil e o calibre da arma.\n( ) Todo item bélico cuja utilização implica seu consumo.\n( ) Número de esferas de chumbo, de diâmetro igual ao do cano, que perfazem o peso de uma libra.\nA sequência correta é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "1-2-3"
+        },
+        {
+          "letra": "b",
+          "texto": "3-2-1"
+        },
+        {
+          "letra": "c",
+          "texto": "2-1-3"
+        },
+        {
+          "letra": "d",
+          "texto": "2-3-1"
+        }
+      ],
+      "resposta": "d",
+      "justificativa": "Forçamento (2) é a diferença de diâmetros que obriga o projétil a se engrazar nas raias. Munição (3) é item de consumo. Gáugio (1) é a medida das armas de alma lisa: um calibre 12 corresponde a 12 esferas por libra.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-065",
+      "origem": "banco_de_questoes",
+      "fonte": "Exercícios de Armamento, Munição e Tiro",
+      "tema": "Munição",
+      "tipo": "multipla_escolha",
+      "enunciado": "Relacione: 1-Cartucho real; 2-Cartucho de festim; 3-Cartucho lança-granada; 4-Cartucho de manejo.\n( ) Usado para treino de manuseio; contém todos os elementos do real, exceto carga propulsora e espoleta.\n( ) Usado para simulação do tiro real; contém todos os elementos do real, exceto o projétil.\n( ) Usado para lançar granadas através de fuzil; exceto o projétil.\n( ) Conjunto completo de componentes do tiro; unidade de contagem da munição.\nA sequência correta é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "4-2-3-1"
+        },
+        {
+          "letra": "b",
+          "texto": "2-4-3-1"
+        },
+        {
+          "letra": "c",
+          "texto": "4-3-1-2"
+        },
+        {
+          "letra": "d",
+          "texto": "2-4-1-3"
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "O cartucho de manejo é inerte, sem pólvora nem espoleta. O de festim faz barulho, mas não tem projétil. O lança-granada usa os gases para lançar a granada. O real é completo.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-066",
+      "origem": "banco_de_questoes",
+      "fonte": "Exercícios de Armamento, Munição e Tiro",
+      "tema": "Munição",
+      "tipo": "multipla_escolha",
+      "enunciado": "Relacione: A-Projétil; B-Estojo; C-Cápsula ou espoleta; D-Carga propulsora.\n( ) Ignitor da carga propulsora, alojado no culote.\n( ) Parte impulsionada em direção ao alvo.\n( ) Recipiente de latão que reúne os demais componentes e faz a obturação da culatra.\n( ) Porção de pólvora sem fumaça dentro do estojo.\nA sequência correta é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "C-B-D-A"
+        },
+        {
+          "letra": "b",
+          "texto": "C-A-B-D"
+        },
+        {
+          "letra": "c",
+          "texto": "B-C-A-D"
+        },
+        {
+          "letra": "d",
+          "texto": "A-C-B-D"
+        }
+      ],
+      "resposta": "b",
+      "justificativa": "A espoleta (C) inicia a ignição; o projétil (A) é lançado; o estojo (B) une os componentes e veda a culatra; a carga propulsora (D) é a pólvora.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-067",
+      "origem": "banco_de_questoes",
+      "fonte": "Exercícios de Armamento, Munição e Tiro",
+      "tema": "Munição",
+      "tipo": "multipla_escolha",
+      "enunciado": "Os componentes do culote são:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Gola, bigorna, eventos e alojamento da cápsula."
+        },
+        {
+          "letra": "b",
+          "texto": "Ogiva, camisa, núcleo e base."
+        },
+        {
+          "letra": "c",
+          "texto": "Gargalo, corpo, ombro e boca."
+        },
+        {
+          "letra": "d",
+          "texto": "Percussor, extrator, ejetor e retém."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "O culote é a base do estojo. Nele ficam a gola (rebaixo onde atua o extrator), o alojamento da cápsula, a bigorna e os eventos (orifícios por onde passa a chama).",
+      "gabarito_origem": "revisado",
+      "desatualizada": false,
+      "observacao": "No original era uma questão de completar lacunas, sem alternativas; foi adaptada para múltipla escolha."
+    },
+    {
+      "id": "BQ-068",
+      "origem": "banco_de_questoes",
+      "fonte": "Exercícios de Armamento, Munição e Tiro",
+      "tema": "Munição",
+      "tipo": "multipla_escolha",
+      "enunciado": "Relacione: 1-Culote; 2-Alojamento da cápsula; 3-Gola; 4-Eventos; 5-Bigorna.\n( ) Orifício central do culote.\n( ) Orifícios no alojamento da cápsula por onde passam as chamas do misto fulminante.\n( ) Ressalto metálico coniforme sobre o qual o percussor provoca a explosão da cápsula.\n( ) Rebaixo que contorna o culote, onde as garras extratoras se fixam.\n( ) Parte inferior do estojo, onde são impressas as iniciais do fabricante.\nA sequência correta é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "2-4-3-5-1"
+        },
+        {
+          "letra": "b",
+          "texto": "2-4-5-3-1"
+        },
+        {
+          "letra": "c",
+          "texto": "2-4-5-1-3"
+        },
+        {
+          "letra": "d",
+          "texto": "4-2-5-3-1"
+        }
+      ],
+      "resposta": "b",
+      "justificativa": "Alojamento da cápsula (2), eventos (4), bigorna (5), gola (3) e culote (1).",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-069",
+      "origem": "banco_de_questoes",
+      "fonte": "Exercícios de Armamento, Munição e Tiro",
+      "tema": "Fundamentos do tiro",
+      "tipo": "multipla_escolha",
+      "enunciado": "Ordene as etapas do fenômeno do tiro:\nA - O projétil se engraza no raiamento e inicia rotação rumo à boca do cano.\nB - Os gases da combustão atuam em todas as direções, gerando pressões.\nC - As pressões atingem a pressão de forçamento (P0) e o projétil inicia o movimento.\nD - O percussor se choca contra a espoleta.\nE - A espoleta detona, produzindo chama que passa pelos eventos.\nF - A chama atinge a carga propulsora, iniciando a deflagração.\nG - A espoleta é prensada contra a bigorna.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "D-G-E-F-A-C-B"
+        },
+        {
+          "letra": "b",
+          "texto": "D-G-E-F-B-C-A"
+        },
+        {
+          "letra": "c",
+          "texto": "A-G-E-F-B-C-D"
+        },
+        {
+          "letra": "d",
+          "texto": "D-G-E-B-F-C-A"
+        }
+      ],
+      "resposta": "b",
+      "justificativa": "A sequência é: percussão (D), compressão contra a bigorna (G), detonação da espoleta (E), ignição da pólvora (F), geração de pressão (B), forçamento (C) e, por fim, o projétil percorrendo o raiamento (A).",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-070",
+      "origem": "banco_de_questoes",
+      "fonte": "Exercícios de Armamento, Munição e Tiro",
+      "tema": "Fundamentos do tiro",
+      "tipo": "multipla_escolha",
+      "enunciado": "“________ é o número de disparos dados por uma arma automática em um minuto. ________ é o número de disparos dados por uma arma semiautomática, de repetição ou de tiro simples em um minuto, incluindo o tempo de troca de carregador e de carregar.”",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Cadência de tiro – velocidade de tiro"
+        },
+        {
+          "letra": "b",
+          "texto": "Velocidade de tiro – cadência de tiro"
+        },
+        {
+          "letra": "c",
+          "texto": "Velocidade inicial – alcance útil"
+        },
+        {
+          "letra": "d",
+          "texto": "Cadência de tiro – alcance máximo"
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "Cadência é o ritmo mecânico da arma automática. Velocidade de tiro é o ritmo prático, que inclui as operações de recarga.",
+      "gabarito_origem": "revisado",
+      "desatualizada": false,
+      "observacao": "No original era uma questão de completar lacunas, sem alternativas; foi adaptada para múltipla escolha."
+    },
+    {
+      "id": "BQ-071",
+      "origem": "banco_de_questoes",
+      "fonte": "Exercícios de Armamento, Munição e Tiro",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "Relacione: 1-Municiar; 2-Alimentar; 3-Carregar; 4-Travar.\n( ) Introduzir os cartuchos em seu depósito (carregador, tambor etc.).\n( ) Introduzir o depósito municiado na arma.\n( ) Impedir o funcionamento do mecanismo de disparo por dispositivo próprio.\n( ) Introduzir um cartucho na câmara, condicionando a arma a disparar.\nA sequência correta é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "4-3-2-1"
+        },
+        {
+          "letra": "b",
+          "texto": "3-4-1-2"
+        },
+        {
+          "letra": "c",
+          "texto": "1-2-3-4"
+        },
+        {
+          "letra": "d",
+          "texto": "1-2-4-3"
+        }
+      ],
+      "resposta": "d",
+      "justificativa": "Municiar é pôr cartuchos no carregador; alimentar é pôr o carregador na arma; travar é acionar a trava; carregar é levar o cartucho à câmara.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-072",
+      "origem": "banco_de_questoes",
+      "fonte": "Exercícios de Armamento, Munição e Tiro",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "Marque V ou F:\n( ) Extrair – ato de retirar o estojo (ou cartucho) da câmara.\n( ) Ejetar – ato de retirar o estojo (ou cartucho) da arma.\n( ) Armar – ato de avançar o cão.\n( ) Desarmar – ato de recuar o cão.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "V-V-F-F"
+        },
+        {
+          "letra": "b",
+          "texto": "V-V-V-V"
+        },
+        {
+          "letra": "c",
+          "texto": "F-F-F-F"
+        },
+        {
+          "letra": "d",
+          "texto": "F-F-V-V"
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "Extrair e ejetar estão corretos. As duas últimas definições estão invertidas: armar é RECUAR o cão até a posição engatilhada, e desarmar é conduzi-lo à frente com segurança.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-073",
+      "origem": "banco_de_questoes",
+      "fonte": "Exercícios de Armamento, Munição e Tiro",
+      "tema": "Fundamentos do tiro",
+      "tipo": "multipla_escolha",
+      "enunciado": "“Consideram-se ________ os conjuntos de fatores de responsabilidade do atirador que têm influência decisiva na precisão dos disparos.”",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Municiar."
+        },
+        {
+          "letra": "b",
+          "texto": "Ciclo de funcionamento do tiro."
+        },
+        {
+          "letra": "c",
+          "texto": "Fundamentos do tiro."
+        },
+        {
+          "letra": "d",
+          "texto": "Disparos."
+        }
+      ],
+      "resposta": "c",
+      "justificativa": "Os fundamentos do tiro (posição, empunhadura, visada, respiração, controle do gatilho e acompanhamento) dependem do atirador e determinam a precisão.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-074",
+      "origem": "banco_de_questoes",
+      "fonte": "Exercícios de Armamento, Munição e Tiro",
+      "tema": "Fundamentos do tiro",
+      "tipo": "multipla_escolha",
+      "enunciado": "Relacione: 1-Trajetória; 2-Alcance máximo; 3-Alcance útil; 4-Alvo; 5-Alça de mira; 6-Massa de mira.\n( ) Distância na qual o projétil atinge com precisão um alvo de dimensões predeterminadas.\n( ) Dispositivo na parte superior intermediária ou posterior da arma.\n( ) Curva descrita pelo centro de gravidade do projétil.\n( ) Dispositivo na parte superior e anterior da arma.\n( ) Ser ou objeto para o qual se aponta a arma.\n( ) Maior distância que o projétil pode alcançar.\nA sequência correta é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "3-5-1-4-6-2"
+        },
+        {
+          "letra": "b",
+          "texto": "3-5-1-6-4-2"
+        },
+        {
+          "letra": "c",
+          "texto": "2-5-1-6-4-3"
+        },
+        {
+          "letra": "d",
+          "texto": "2-1-5-6-4-3"
+        }
+      ],
+      "resposta": "b",
+      "justificativa": "Alcance útil (3), alça de mira, que fica atrás (5), trajetória (1), massa de mira, que fica na frente (6), alvo (4) e alcance máximo (2).",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-075",
+      "origem": "banco_de_questoes",
+      "fonte": "Prova de capacidade técnica – itens certo/errado (Recife-PE)",
+      "tema": "Normas de segurança",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Tratar a arma de fogo como se ela sempre estivesse carregada é uma norma de segurança necessária para evitar que outras pessoas sejam atingidas indevidamente.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Norma nº 4 da cartilha.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-076",
+      "origem": "banco_de_questoes",
+      "fonte": "Prova de capacidade técnica – itens certo/errado (Recife-PE)",
+      "tema": "Normas de segurança",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "A arma de fogo poderá ser apontada em qualquer direção, pois essa conduta oferece segurança para o atirador e as demais pessoas.",
+      "alternativas": null,
+      "resposta": false,
+      "justificativa": "A norma nº 3 diz que a arma NUNCA deve ser apontada em direção que não ofereça segurança.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-077",
+      "origem": "banco_de_questoes",
+      "fonte": "Prova de capacidade técnica – itens certo/errado (Recife-PE)",
+      "tema": "Normas de segurança",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "O dedo estendido ao longo do corpo da arma e o controle de cano são medidas indispensáveis para se evitar disparos acidentais.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Normas nº 6 e 16: dedo fora do gatilho e cano sempre em direção segura.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-078",
+      "origem": "banco_de_questoes",
+      "fonte": "Prova de capacidade técnica – itens certo/errado (Recife-PE)",
+      "tema": "Normas de segurança",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Pegar ou receber uma arma de fogo com o cano apontado em sua direção não constitui perigo, pois é obrigação de todo indivíduo entregá-la descarregada.",
+      "alternativas": null,
+      "resposta": false,
+      "justificativa": "A norma nº 15 manda NUNCA pegar ou receber arma com o cano apontado para si, e a nº 19 manda verificar sempre se ela está descarregada. Não se presume que quem entrega fez a verificação.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-079",
+      "origem": "banco_de_questoes",
+      "fonte": "Prova de capacidade técnica – itens certo/errado (Recife-PE)",
+      "tema": "Normas de segurança",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Transportar ou coldrear uma arma de fogo com o cão armado constitui perigo e deve ser evitado, mesmo que as travas de segurança estejam acionadas.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Norma nº 27. A trava é apenas mecânica e não substitui o bom senso (nº 12).",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-080",
+      "origem": "banco_de_questoes",
+      "fonte": "Prova de capacidade técnica – itens certo/errado (Recife-PE)",
+      "tema": "Normas de segurança",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Guardar a arma de fogo com cuidado significa deixá-la separada da munição e em local que permita o acesso de outras pessoas, inclusive de crianças.",
+      "alternativas": null,
+      "resposta": false,
+      "justificativa": "A norma nº 10 manda guardar armas e munições separadas e FORA do alcance de crianças.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-081",
+      "origem": "banco_de_questoes",
+      "fonte": "Prova de capacidade técnica – itens certo/errado (Recife-PE)",
+      "tema": "Conduta no estande",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Em um estande de tiro, todo procedimento de sacar a arma, carregar e descarregar, bem como inspecionar e colocar a arma no coldre, deverá ser feito sob comando do instrutor.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Regra nº 3 de conduta no estande.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-082",
+      "origem": "banco_de_questoes",
+      "fonte": "Prova de capacidade técnica – itens certo/errado (Recife-PE)",
+      "tema": "Conduta no estande",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Em alguns casos, a falta de silêncio pelos atiradores não prejudica a segurança, não precisando ser observada rigorosamente na linha de tiro.",
+      "alternativas": null,
+      "resposta": false,
+      "justificativa": "A regra nº 1 diz que o silêncio é fator preponderante e deve ser observado RIGOROSAMENTE.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-083",
+      "origem": "banco_de_questoes",
+      "fonte": "Prova de capacidade técnica – itens certo/errado (Recife-PE)",
+      "tema": "Conduta no estande",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Executar os comandos sob determinação do instrutor, bem como evitar a antecipação de comandos não ordenados, é conduta adequada em um estande de tiro.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Regra nº 4 de conduta no estande.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-084",
+      "origem": "banco_de_questoes",
+      "fonte": "Prova de capacidade técnica – itens certo/errado (Recife-PE)",
+      "tema": "Legislação",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Qualquer cidadão maior de 21 anos pode adquirir uma arma de fogo de uso permitido junto à Polícia Federal, bastando preencher os requisitos do art. 4º da Lei 10.826/2003.",
+      "alternativas": null,
+      "resposta": false,
+      "justificativa": "A idade mínima é 25 anos (art. 28 da Lei 10.826/2003).",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-085",
+      "origem": "banco_de_questoes",
+      "fonte": "Prova de capacidade técnica – itens certo/errado (Recife-PE)",
+      "tema": "Legislação",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "São exemplos de calibres de armas curtas de uso permitido, de repetição ou semiautomáticas, os calibres .380 Auto, .38 SPL, .25 Auto e .32 Auto.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "A cartilha cita esses calibres como de uso permitido, todos abaixo de 407 J.",
+      "gabarito_origem": "inferido",
+      "desatualizada": true,
+      "observacao": "Pelo Decreto 11.615/2023, a PF passou a tratar algumas cargas de .38 SPL que passam de 407 J como de uso restrito. Confira a classificação atual."
+    },
+    {
+      "id": "BQ-086",
+      "origem": "banco_de_questoes",
+      "fonte": "Prova de capacidade técnica – itens certo/errado (Recife-PE)",
+      "tema": "Legislação",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "O Certificado de Registro de Arma de Fogo autoriza o proprietário a manter a arma no interior de sua residência ou dependência desta, bem como portá-la no interior do seu veículo.",
+      "alternativas": null,
+      "resposta": false,
+      "justificativa": "O CRAF autoriza apenas a manter a arma na residência ou no local de trabalho, se o dono for titular ou responsável pelo estabelecimento (art. 5º). O veículo não está incluído, e levar a arma nele sem porte ou guia é porte ilegal.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-087",
+      "origem": "banco_de_questoes",
+      "fonte": "Prova de capacidade técnica – itens certo/errado (Recife-PE)",
+      "tema": "Legislação",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "O proprietário de arma de fogo, sendo civil e possuindo apenas o CRAF, para transportá-la para outro local necessita de guia de trânsito expedida pela Polícia Federal.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Sem porte, o transporte exige guia de trânsito/tráfego, com a arma desmuniciada e acondicionada.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-088",
+      "origem": "banco_de_questoes",
+      "fonte": "Prova de capacidade técnica – itens certo/errado (Recife-PE)",
+      "tema": "Legislação",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Todo cidadão, para adquirir arma de fogo de uso permitido junto à Polícia Federal, não necessita apresentar certidões negativas de antecedentes criminais da Justiça Federal, Estadual, Militar e Eleitoral, nem comprovante de ocupação lícita e residência certa.",
+      "alternativas": null,
+      "resposta": false,
+      "justificativa": "Ambos são exigidos pelo art. 4º, I e II, da Lei 10.826/2003.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-089",
+      "origem": "banco_de_questoes",
+      "fonte": "CIAAR – Armamento, Munição e Tiro II (30 questões)",
+      "tema": "Munição",
+      "tipo": "multipla_escolha",
+      "enunciado": "O núcleo de um projétil pode ser classificado em:\nI - químicos e biológicos\nII - inertes e explosivos\nIII - radiológicos.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Apenas I e III estão corretas."
+        },
+        {
+          "letra": "b",
+          "texto": "Apenas I está errada."
+        },
+        {
+          "letra": "c",
+          "texto": "Todas estão erradas."
+        },
+        {
+          "letra": "d",
+          "texto": "Apenas I e II estão corretas."
+        }
+      ],
+      "resposta": "d",
+      "justificativa": "Quanto ao núcleo, os projéteis se classificam em inertes, explosivos, químicos e biológicos. 'Radiológico' não faz parte dessa classificação.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-090",
+      "origem": "banco_de_questoes",
+      "fonte": "CIAAR – Armamento, Munição e Tiro II (30 questões)",
+      "tema": "Fundamentos do tiro",
+      "tipo": "multipla_escolha",
+      "enunciado": "Controlar uma arma é segurá-la com firmeza, de modo a diminuir os efeitos de um movimento indesejável, realizando ao mesmo tempo a pontaria correta e o disparo. A esse processo chamamos de:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Linha de visada."
+        },
+        {
+          "letra": "b",
+          "texto": "Fotografia."
+        },
+        {
+          "letra": "c",
+          "texto": "Empunhadura."
+        },
+        {
+          "letra": "d",
+          "texto": "Linha de mira."
+        }
+      ],
+      "resposta": "c",
+      "justificativa": "A empunhadura é a forma de segurar a arma com firmeza e controle.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-091",
+      "origem": "banco_de_questoes",
+      "fonte": "CIAAR – Armamento, Munição e Tiro II (30 questões)",
+      "tema": "Munição",
+      "tipo": "multipla_escolha",
+      "enunciado": "É a parte inferior do cartucho, onde são impressos as iniciais do fabricante ou o ano de fabricação.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Projétil."
+        },
+        {
+          "letra": "b",
+          "texto": "Estojo."
+        },
+        {
+          "letra": "c",
+          "texto": "Culote."
+        },
+        {
+          "letra": "d",
+          "texto": "Carga explosiva."
+        }
+      ],
+      "resposta": "c",
+      "justificativa": "O culote é a base do estojo, onde fica a inscrição (headstamp) com fabricante e calibre.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-092",
+      "origem": "banco_de_questoes",
+      "fonte": "CIAAR – Armamento, Munição e Tiro II (30 questões)",
+      "tema": "Munição",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quando o núcleo de um projétil é explosivo, químico ou biológico, ele é denominado:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Obus."
+        },
+        {
+          "letra": "b",
+          "texto": "Granada."
+        },
+        {
+          "letra": "c",
+          "texto": "Projétil."
+        },
+        {
+          "letra": "d",
+          "texto": "As alternativas 'a' e 'b' estão corretas."
+        }
+      ],
+      "resposta": "d",
+      "justificativa": "Com núcleo inerte, chama-se projétil. Com núcleo explosivo, químico ou biológico, chama-se obus ou granada.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-093",
+      "origem": "banco_de_questoes",
+      "fonte": "CIAAR – Armamento, Munição e Tiro II (30 questões)",
+      "tema": "Fundamentos do tiro",
+      "tipo": "multipla_escolha",
+      "enunciado": "O atirador não deve prever ou antecipar o movimento do disparo, pois dessa maneira acabará fatalmente caindo no erro da:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Fotografia."
+        },
+        {
+          "letra": "b",
+          "texto": "Gatilhada."
+        },
+        {
+          "letra": "c",
+          "texto": "Mira."
+        },
+        {
+          "letra": "d",
+          "texto": "Respiração."
+        }
+      ],
+      "resposta": "b",
+      "justificativa": "A gatilhada é a pressão brusca no gatilho para forçar o disparo num instante escolhido. O disparo deve 'surpreender' o atirador.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-094",
+      "origem": "banco_de_questoes",
+      "fonte": "CIAAR – Armamento, Munição e Tiro II (30 questões)",
+      "tema": "Munição",
+      "tipo": "multipla_escolha",
+      "enunciado": "São tipos de munição, EXCETO:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Convencionais e químicas."
+        },
+        {
+          "letra": "b",
+          "texto": "Radiológicas."
+        },
+        {
+          "letra": "c",
+          "texto": "Biológicas."
+        },
+        {
+          "letra": "d",
+          "texto": "Todas estão corretas."
+        }
+      ],
+      "resposta": "d",
+      "justificativa": "Pelo gabarito original, todas são tipos de munição (convencional, química, biológica e radiológica), e a resposta é 'todas estão corretas'.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false,
+      "observacao": "Enunciado truncado no original; gabarito mantido."
+    },
+    {
+      "id": "BQ-095",
+      "origem": "banco_de_questoes",
+      "fonte": "CIAAR – Armamento, Munição e Tiro II (30 questões)",
+      "tema": "Fundamentos do tiro",
+      "tipo": "multipla_escolha",
+      "enunciado": "Consiste em alinhar CORRETAMENTE o visor (alça de mira) e a massa de mira.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Linha de visada."
+        },
+        {
+          "letra": "b",
+          "texto": "Fotografia."
+        },
+        {
+          "letra": "c",
+          "texto": "Empunhadura."
+        },
+        {
+          "letra": "d",
+          "texto": "Linha de mira."
+        }
+      ],
+      "resposta": "d",
+      "justificativa": "A linha de mira é o alinhamento da alça com a massa. Quando ela é prolongada até o alvo, forma a linha de visada.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-096",
+      "origem": "banco_de_questoes",
+      "fonte": "CIAAR – Armamento, Munição e Tiro II (30 questões)",
+      "tema": "Munição",
+      "tipo": "multipla_escolha",
+      "enunciado": "É a parte do cartucho que, no tiro, é impulsionada em direção ao alvo.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Projétil."
+        },
+        {
+          "letra": "b",
+          "texto": "Estojo."
+        },
+        {
+          "letra": "c",
+          "texto": "Culote."
+        },
+        {
+          "letra": "d",
+          "texto": "Carga explosiva."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "O projétil é a única parte do cartucho lançada pelo cano.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-097",
+      "origem": "banco_de_questoes",
+      "fonte": "CIAAR – Armamento, Munição e Tiro II (30 questões)",
+      "tema": "Munição",
+      "tipo": "multipla_escolha",
+      "enunciado": "É o ressalto metálico coniforme, existente no alojamento da cápsula, sobre o qual o percussor vai provocar o atrito necessário à explosão da cápsula.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Gola."
+        },
+        {
+          "letra": "b",
+          "texto": "Eventos."
+        },
+        {
+          "letra": "c",
+          "texto": "Bigorna."
+        },
+        {
+          "letra": "d",
+          "texto": "Cápsula ou espoleta."
+        }
+      ],
+      "resposta": "c",
+      "justificativa": "A bigorna é a peça contra a qual o misto fulminante é esmagado pelo percussor.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-098",
+      "origem": "banco_de_questoes",
+      "fonte": "CIAAR – Armamento, Munição e Tiro II (30 questões)",
+      "tema": "Fundamentos do tiro",
+      "tipo": "multipla_escolha",
+      "enunciado": "Associe os erros comuns com armas curtas:\n1) Empunhar com força demasiada, elevando a massa de mira.\n2) Inclinar a arma para a direita ou esquerda por pressão do polegar.\n3) Tentar disparar num instante determinado, com pressão abrupta no gatilho.\n( ) Gatilhada ( ) Inclinação da arma ( ) Espalmar a arma",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "2-3-1"
+        },
+        {
+          "letra": "b",
+          "texto": "1-2-3"
+        },
+        {
+          "letra": "c",
+          "texto": "3-2-1"
+        },
+        {
+          "letra": "d",
+          "texto": "3-1-2"
+        }
+      ],
+      "resposta": "c",
+      "justificativa": "Gatilhada (3), inclinação da arma (2) e espalmar a arma (1).",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-099",
+      "origem": "banco_de_questoes",
+      "fonte": "CIAAR – Armamento, Munição e Tiro II (30 questões)",
+      "tema": "Fundamentos do tiro",
+      "tipo": "multipla_escolha",
+      "enunciado": "Tomada a linha de visada, a parte superior da massa aparece sob a base do ponto de pontaria (mira de base) ou sob o centro (mira de centro). Este procedimento é chamado de:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Precisão."
+        },
+        {
+          "letra": "b",
+          "texto": "Trajetória."
+        },
+        {
+          "letra": "c",
+          "texto": "Fotografia."
+        },
+        {
+          "letra": "d",
+          "texto": "Retrato."
+        }
+      ],
+      "resposta": "c",
+      "justificativa": "A 'fotografia' é a imagem final de visada que o atirador deve memorizar e repetir a cada disparo.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-100",
+      "origem": "banco_de_questoes",
+      "fonte": "CIAAR – Armamento, Munição e Tiro II (30 questões)",
+      "tema": "Munição",
+      "tipo": "multipla_escolha",
+      "enunciado": "Rebaixo que contorna o culote, onde as garras extratoras se fixam para retirar o cartucho ou estojo da câmara.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Gola."
+        },
+        {
+          "letra": "b",
+          "texto": "Eventos."
+        },
+        {
+          "letra": "c",
+          "texto": "Bigorna."
+        },
+        {
+          "letra": "d",
+          "texto": "Cápsula ou espoleta."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "A gola é o sulco do culote onde o extrator se prende.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-101",
+      "origem": "banco_de_questoes",
+      "fonte": "CIAAR – Armamento, Munição e Tiro II (30 questões)",
+      "tema": "Fundamentos do tiro",
+      "tipo": "multipla_escolha",
+      "enunciado": "É a reação antecipada ao recuo da arma, procurando furtar o corpo à sua ação.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Torção de pulso."
+        },
+        {
+          "letra": "b",
+          "texto": "Esquiva."
+        },
+        {
+          "letra": "c",
+          "texto": "Sobressalto."
+        },
+        {
+          "letra": "d",
+          "texto": "Antecipação."
+        }
+      ],
+      "resposta": "b",
+      "justificativa": "Esquiva é o movimento de 'fugir' do recuo, causado pelo receio da reação da arma.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-102",
+      "origem": "banco_de_questoes",
+      "fonte": "CIAAR – Armamento, Munição e Tiro II (30 questões)",
+      "tema": "Munição",
+      "tipo": "multipla_escolha",
+      "enunciado": "O estojo dilata-se na câmara, fazendo a obturação da ________, isto é, impedindo o retorno de gases.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Carga."
+        },
+        {
+          "letra": "b",
+          "texto": "Massa de mira."
+        },
+        {
+          "letra": "c",
+          "texto": "Alma da arma."
+        },
+        {
+          "letra": "d",
+          "texto": "Culatra."
+        }
+      ],
+      "resposta": "d",
+      "justificativa": "Ao dilatar, o estojo veda a culatra e impede que os gases escapem para trás.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-103",
+      "origem": "banco_de_questoes",
+      "fonte": "CIAAR – Armamento, Munição e Tiro II (30 questões)",
+      "tema": "Fundamentos do tiro",
+      "tipo": "multipla_escolha",
+      "enunciado": "Dispersão do tiro após uma série efetuada e agrupada na parte baixa do alvo pode ter como causa provável:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Torção de pulso."
+        },
+        {
+          "letra": "b",
+          "texto": "Esquiva."
+        },
+        {
+          "letra": "c",
+          "texto": "Sobressalto."
+        },
+        {
+          "letra": "d",
+          "texto": "Antecipação."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "Pelo gabarito original, a torção de pulso, que é o movimento do punho no momento do disparo, desloca os impactos para baixo.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-104",
+      "origem": "banco_de_questoes",
+      "fonte": "CIAAR – Armamento, Munição e Tiro II (30 questões)",
+      "tema": "Munição",
+      "tipo": "multipla_escolha",
+      "enunciado": "É todo item bélico cuja utilização implica o seu consumo. Para armas de fogo, apresenta-se normalmente sob a forma de cartucho.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Arma de fogo."
+        },
+        {
+          "letra": "b",
+          "texto": "Material bélico."
+        },
+        {
+          "letra": "c",
+          "texto": "Munição."
+        },
+        {
+          "letra": "d",
+          "texto": "N.d.a."
+        }
+      ],
+      "resposta": "c",
+      "justificativa": "Essa é a definição de munição.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-105",
+      "origem": "banco_de_questoes",
+      "fonte": "CIAAR – Armamento, Munição e Tiro II (30 questões)",
+      "tema": "Fundamentos do tiro",
+      "tipo": "multipla_escolha",
+      "enunciado": "É a tentativa de amortecer os efeitos do recuo, retesando os músculos do peito e dos ombros e movendo-os para frente.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Torção de pulso."
+        },
+        {
+          "letra": "b",
+          "texto": "Esquiva."
+        },
+        {
+          "letra": "c",
+          "texto": "Sobressalto."
+        },
+        {
+          "letra": "d",
+          "texto": "Antecipação."
+        }
+      ],
+      "resposta": "d",
+      "justificativa": "Antecipação é preparar o corpo para o recuo antes do disparo, empurrando a arma para frente.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-106",
+      "origem": "banco_de_questoes",
+      "fonte": "CIAAR – Armamento, Munição e Tiro II (30 questões)",
+      "tema": "Munição",
+      "tipo": "multipla_escolha",
+      "enunciado": "É o cartucho utilizado para treinamento de municiamento, carregamento, extração e ejeção; contém todos os elementos do cartucho real, exceto a carga propulsora e a cápsula.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Cartucho real."
+        },
+        {
+          "letra": "b",
+          "texto": "Cartucho de festim."
+        },
+        {
+          "letra": "c",
+          "texto": "Cartucho lança-granada."
+        },
+        {
+          "letra": "d",
+          "texto": "Cartucho de manejo."
+        }
+      ],
+      "resposta": "d",
+      "justificativa": "O cartucho de manejo é inerte e usado apenas para treino de manuseio.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-107",
+      "origem": "banco_de_questoes",
+      "fonte": "CIAAR – Armamento, Munição e Tiro II (30 questões)",
+      "tema": "Fundamentos do tiro",
+      "tipo": "multipla_escolha",
+      "enunciado": "O ato integrado de atirar é a aplicação correta e oportuna dos dois principais fundamentos do tiro:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Precisão e justeza."
+        },
+        {
+          "letra": "b",
+          "texto": "Dosagem e pontaria."
+        },
+        {
+          "letra": "c",
+          "texto": "Pontaria e empunhadura."
+        },
+        {
+          "letra": "d",
+          "texto": "Empunhadura e precisão."
+        }
+      ],
+      "resposta": "c",
+      "justificativa": "Pontaria e empunhadura são fundamentos que dependem do atirador. Precisão e justeza são resultados do tiro.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-108",
+      "origem": "banco_de_questoes",
+      "fonte": "CIAAR – Armamento, Munição e Tiro II (30 questões)",
+      "tema": "Regulamento da prova",
+      "tipo": "multipla_escolha",
+      "enunciado": "Estará habilitado a executar o TMA o militar que atingiu o padrão mínimo de desempenho no TMB e não tenha permanecido por mais de ______ sem realizar instrução de tiro.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "01 ano."
+        },
+        {
+          "letra": "b",
+          "texto": "02 anos."
+        },
+        {
+          "letra": "c",
+          "texto": "03 anos."
+        },
+        {
+          "letra": "d",
+          "texto": "06 meses."
+        }
+      ],
+      "resposta": "b",
+      "justificativa": "Pelo gabarito original, o prazo é de 2 anos. É uma regra interna da instrução militar.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false,
+      "observacao": "Conteúdo de curso militar (Aeronáutica); vai além do exigido na prova da PF."
+    },
+    {
+      "id": "BQ-109",
+      "origem": "banco_de_questoes",
+      "fonte": "CIAAR – Armamento, Munição e Tiro II (30 questões)",
+      "tema": "Munição",
+      "tipo": "multipla_escolha",
+      "enunciado": "É a porção de pólvora sem fumaça misturada com grafite e outros componentes, que fica dentro do estojo sem enchê-lo completamente; pode ser granulada ou em blocos.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Carga propulsora."
+        },
+        {
+          "letra": "b",
+          "texto": "Eventos."
+        },
+        {
+          "letra": "c",
+          "texto": "Bigorna."
+        },
+        {
+          "letra": "d",
+          "texto": "Cápsula ou espoleta."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "Essa é a definição de carga propulsora.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-110",
+      "origem": "banco_de_questoes",
+      "fonte": "CIAAR – Armamento, Munição e Tiro II (30 questões)",
+      "tema": "Fundamentos do tiro",
+      "tipo": "multipla_escolha",
+      "enunciado": "São fatores que afetam a firmeza da empunhadura, EXCETO:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Chapa da soleira no cavado do ombro e respiração."
+        },
+        {
+          "letra": "b",
+          "texto": "Descontração e colocação da mão e braço esquerdo."
+        },
+        {
+          "letra": "c",
+          "texto": "Controle do gatilho."
+        },
+        {
+          "letra": "d",
+          "texto": "Precisão e justeza."
+        }
+      ],
+      "resposta": "d",
+      "justificativa": "Precisão e justeza são características do resultado do tiro, e não fatores da empunhadura.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-111",
+      "origem": "banco_de_questoes",
+      "fonte": "CIAAR – Armamento, Munição e Tiro II (30 questões)",
+      "tema": "Fundamentos do tiro",
+      "tipo": "multipla_escolha",
+      "enunciado": "Consiste em prolongar a linha de mira até o alvo, de modo que ele apareça exatamente sobre a massa de mira e dividido ao meio pela linha vertical imaginária que passa pelo centro do visor.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Linha de visada."
+        },
+        {
+          "letra": "b",
+          "texto": "Fotografia."
+        },
+        {
+          "letra": "c",
+          "texto": "Empunhadura."
+        },
+        {
+          "letra": "d",
+          "texto": "Linha de mira."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "A linha de visada é a linha de mira prolongada até o alvo.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-112",
+      "origem": "banco_de_questoes",
+      "fonte": "CIAAR – Armamento, Munição e Tiro II (30 questões)",
+      "tema": "Fundamentos do tiro",
+      "tipo": "multipla_escolha",
+      "enunciado": "Associe: 1) Impactos agrupados fora do centro; 2) Impactos totalmente dispersos; 3) Torção de pulso; 4) Sobressalto; 5) Esquiva; 6) Antecipação.\n( ) excesso de nervosismo\n( ) preparação antecipada do corpo para o recuo\n( ) compensar acertos agrupados na parte baixa do alvo\n( ) erro no alinhamento vertical da alça e massa de mira\n( ) receio de sofrer a reação da arma\n( ) fechamento dos olhos no momento do disparo",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "4-6-1-3-5-2"
+        },
+        {
+          "letra": "b",
+          "texto": "5-2-3-1-4-6"
+        },
+        {
+          "letra": "c",
+          "texto": "4-6-3-5-1-2"
+        },
+        {
+          "letra": "d",
+          "texto": "4-6-3-1-5-2"
+        }
+      ],
+      "resposta": "d",
+      "justificativa": "Sobressalto (4), antecipação (6), torção de pulso (3), impactos agrupados fora do centro (1), esquiva (5) e impactos dispersos (2).",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-113",
+      "origem": "banco_de_questoes",
+      "fonte": "CIAAR – Armamento, Munição e Tiro II (30 questões)",
+      "tema": "Munição",
+      "tipo": "multipla_escolha",
+      "enunciado": "São orifícios existentes no alojamento da cápsula, por onde as chamas do misto fulminante provocam a inflamação da carga propulsora.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Gola."
+        },
+        {
+          "letra": "b",
+          "texto": "Eventos."
+        },
+        {
+          "letra": "c",
+          "texto": "Bigorna."
+        },
+        {
+          "letra": "d",
+          "texto": "Cápsula ou espoleta."
+        }
+      ],
+      "resposta": "b",
+      "justificativa": "Os eventos levam a chama da espoleta até a pólvora.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-114",
+      "origem": "banco_de_questoes",
+      "fonte": "CIAAR – Armamento, Munição e Tiro II (30 questões)",
+      "tema": "Munição",
+      "tipo": "multipla_escolha",
+      "enunciado": "É dividido em quatro partes distintas: projétil, estojo, cápsula e carga propulsora.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Cartucho de festim."
+        },
+        {
+          "letra": "b",
+          "texto": "Cartucho real."
+        },
+        {
+          "letra": "c",
+          "texto": "Cartucho lança-granada."
+        },
+        {
+          "letra": "d",
+          "texto": "Cartucho de manejo."
+        }
+      ],
+      "resposta": "b",
+      "justificativa": "O cartucho real é o único completo.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false,
+      "observacao": "O original diz 'culote' no lugar de 'cápsula'; o texto foi corrigido."
+    },
+    {
+      "id": "BQ-115",
+      "origem": "banco_de_questoes",
+      "fonte": "CIAAR – Armamento, Munição e Tiro II (30 questões)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "Para remover as sujidades na manutenção do armamento, é possível utilizar:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Rustilo DW."
+        },
+        {
+          "letra": "b",
+          "texto": "WD 40."
+        },
+        {
+          "letra": "c",
+          "texto": "WD 50."
+        },
+        {
+          "letra": "d",
+          "texto": "N.d.a."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "O gabarito original aponta o desengripante/protetivo da linha Rustilo, previsto no material militar.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false,
+      "observacao": "Conteúdo de curso militar (Aeronáutica); vai além do exigido na prova da PF."
+    },
+    {
+      "id": "BQ-116",
+      "origem": "banco_de_questoes",
+      "fonte": "CIAAR – Armamento, Munição e Tiro II (30 questões)",
+      "tema": "Munição",
+      "tipo": "multipla_escolha",
+      "enunciado": "O ignitor da carga propulsora. Aloja-se no culote e compõe-se de um recipiente de metal e um misto fulminante.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Gola."
+        },
+        {
+          "letra": "b",
+          "texto": "Eventos."
+        },
+        {
+          "letra": "c",
+          "texto": "Bigorna."
+        },
+        {
+          "letra": "d",
+          "texto": "Cápsula ou espoleta."
+        }
+      ],
+      "resposta": "d",
+      "justificativa": "Essa é a definição de espoleta (cápsula).",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-117",
+      "origem": "banco_de_questoes",
+      "fonte": "CIAAR – Armamento, Munição e Tiro II (30 questões)",
+      "tema": "Fundamentos do tiro",
+      "tipo": "multipla_escolha",
+      "enunciado": "É uma tendência nervosa de antecipação, que ocorre quando se puxa o gatilho e o corpo não está ainda preparado, comumente causada por excesso de nervosismo.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Torção de pulso."
+        },
+        {
+          "letra": "b",
+          "texto": "Esquiva."
+        },
+        {
+          "letra": "c",
+          "texto": "Sobressalto."
+        },
+        {
+          "letra": "d",
+          "texto": "Antecipação."
+        }
+      ],
+      "resposta": "c",
+      "justificativa": "Sobressalto é a reação nervosa e involuntária no momento do disparo.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-118",
+      "origem": "banco_de_questoes",
+      "fonte": "CIAAR – Armamento, Munição e Tiro II (30 questões)",
+      "tema": "Munição",
+      "tipo": "multipla_escolha",
+      "enunciado": "É um recipiente de latão especial com formato próprio, onde os demais componentes do cartucho se reúnem.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Projétil."
+        },
+        {
+          "letra": "b",
+          "texto": "Estojo."
+        },
+        {
+          "letra": "c",
+          "texto": "Culote."
+        },
+        {
+          "letra": "d",
+          "texto": "Carga explosiva."
+        }
+      ],
+      "resposta": "b",
+      "justificativa": "Essa é a definição de estojo.",
+      "gabarito_origem": "fornecido",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-001",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "Segundo a cartilha, armas curtas são aquelas que:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Só disparam em ação simples."
+        },
+        {
+          "letra": "b",
+          "texto": "Podem ser operadas com uma ou duas mãos, sem necessidade de apoio no ombro."
+        },
+        {
+          "letra": "c",
+          "texto": "Têm sempre alma lisa."
+        },
+        {
+          "letra": "d",
+          "texto": "Têm cano menor que 10 cm."
+        }
+      ],
+      "resposta": "b",
+      "justificativa": "A cartilha define arma curta pela forma de operação: com uma ou duas mãos e sem apoio no ombro. Não há medida fixa de cano.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-002",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quanto à portabilidade, a arma de dimensões e peso reduzidos, que pode ser portada em coldre e disparada comodamente com uma só mão, é chamada de:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Arma longa."
+        },
+        {
+          "letra": "b",
+          "texto": "Arma de porte."
+        },
+        {
+          "letra": "c",
+          "texto": "Arma portátil."
+        },
+        {
+          "letra": "d",
+          "texto": "Arma não portátil."
+        }
+      ],
+      "resposta": "b",
+      "justificativa": "Arma de porte é a que vai no coldre e se dispara com uma mão, como pistolas, revólveres e garruchas. A arma portátil é transportada por uma pessoa, mas exige as duas mãos e não vai em coldre.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-003",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual das armas abaixo NÃO é classificada como arma de porte?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Revólver."
+        },
+        {
+          "letra": "b",
+          "texto": "Carabina."
+        },
+        {
+          "letra": "c",
+          "texto": "Garrucha."
+        },
+        {
+          "letra": "d",
+          "texto": "Pistola."
+        }
+      ],
+      "resposta": "b",
+      "justificativa": "A carabina é uma arma portátil, porque exige as duas mãos e não vai em coldre. Pistola, revólver e garrucha são citados pela cartilha como armas de porte.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-004",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Arma portátil é aquela cujo peso e dimensões permitem que seja transportada por um único homem, mas não conduzida em coldre, exigindo, em situações normais, ambas as mãos para o disparo eficiente.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Essa é a definição de arma portátil da cartilha. Exemplos: fuzil, carabina e espingarda.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-005",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Arma não portátil é aquela que, devido às suas dimensões ou ao seu peso, não pode ser transportada por um único homem.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Essa é a definição de arma não portátil da cartilha.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-006",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "Arma de fogo de porte, de repetição, dotada de um cilindro giratório atrás do cano que serve de carregador e cujas perfurações servem de câmara. Trata-se do(a):",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Revólver."
+        },
+        {
+          "letra": "b",
+          "texto": "Garrucha."
+        },
+        {
+          "letra": "c",
+          "texto": "Pistola."
+        },
+        {
+          "letra": "d",
+          "texto": "Submetralhadora."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "No revólver, cada furo do tambor funciona como uma câmara, e o tambor gira para alinhar o cartucho seguinte com o cano.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-007",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Na pistola, a única câmara faz parte do corpo do cano, e o carregador apresenta os cartuchos sequencialmente para o carregamento.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Esse é o conceito de pistola da cartilha. É a principal diferença para o revólver, que tem várias câmaras no tambor.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-008",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "Arma de fogo portátil, de cano longo e alma LISA:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Carabina."
+        },
+        {
+          "letra": "b",
+          "texto": "Espingarda."
+        },
+        {
+          "letra": "c",
+          "texto": "Metralhadora."
+        },
+        {
+          "letra": "d",
+          "texto": "Fuzil."
+        }
+      ],
+      "resposta": "b",
+      "justificativa": "A espingarda tem alma lisa, ou seja, não raiada. Fuzil e carabina têm alma raiada.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-009",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "Arma de fogo portátil que realiza tiro SOMENTE no sistema automático:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Metralhadora."
+        },
+        {
+          "letra": "b",
+          "texto": "Pistola."
+        },
+        {
+          "letra": "c",
+          "texto": "Fuzil."
+        },
+        {
+          "letra": "d",
+          "texto": "Submetralhadora."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "Pela cartilha, a metralhadora só dispara no automático. A submetralhadora pode atirar em semiautomático ou automático.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-010",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "A submetralhadora, também chamada de metralhadora de mão, é uma arma portátil que pode atirar em semiautomático ou automático e normalmente usa calibres de pistola, como 9 mm ou .40.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Essa é a definição de submetralhadora da cartilha.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-011",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "No Brasil, usualmente se considera carabina a arma de fogo de cano longo raiado de calibre permitido, como as carabinas .22 e .38 SPL.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "A cartilha registra esse uso corrente no Brasil. Em outros países, o critério é o comprimento do cano, entre 20 e 22,5 polegadas.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-012",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "Arma em que o carregamento é feito pela BOCA do cano:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Antecarga."
+        },
+        {
+          "letra": "b",
+          "texto": "Retrocarga automática."
+        },
+        {
+          "letra": "c",
+          "texto": "Retrocarga manual."
+        },
+        {
+          "letra": "d",
+          "texto": "Semiautomática."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "Na antecarga, o carregamento é pela boca do cano, como nos mosquetes e bacamartes. Na retrocarga, é pela parte posterior.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-013",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Na retrocarga automática, o carregamento é feito pela parte posterior do cano, em regra aproveitando a energia do disparo e dispensando a intervenção humana.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Essa é a definição da cartilha. Na retrocarga manual, quem faz o carregamento é a força muscular do atirador.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-014",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "Arma em que o atirador, após cada disparo, precisa empregar força física sobre um componente do mecanismo para preparar o disparo seguinte. Exemplo citado na cartilha: revólver. Trata-se de arma:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Semiautomática."
+        },
+        {
+          "letra": "b",
+          "texto": "De antecarga."
+        },
+        {
+          "letra": "c",
+          "texto": "De repetição."
+        },
+        {
+          "letra": "d",
+          "texto": "Automática."
+        }
+      ],
+      "resposta": "c",
+      "justificativa": "Na arma de repetição, o atirador faz o ciclo com a própria força, seja no gatilho do revólver, seja na alavanca, no ferrolho ou na telha (pump).",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-015",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "Arma que realiza automaticamente todas as operações de funcionamento, exceto o disparo, que exige novo acionamento do gatilho a cada tiro:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "De repetição."
+        },
+        {
+          "letra": "b",
+          "texto": "Automática."
+        },
+        {
+          "letra": "c",
+          "texto": "Semiautomática."
+        },
+        {
+          "letra": "d",
+          "texto": "De ação simples."
+        }
+      ],
+      "resposta": "c",
+      "justificativa": "Na arma semiautomática, como a pistola, sai um tiro por acionamento do gatilho, e o ciclo de recarga é automático.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-016",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Arma automática é aquela em que o carregamento, o disparo e todas as operações de funcionamento ocorrem continuamente enquanto o gatilho estiver acionado, ou seja, dispara rajadas.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Essa é a definição da cartilha. Exemplo: metralhadora.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-017",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "Sistema em que o acionamento do gatilho produz apenas UMA operação, o disparo, porque o cão já foi armado manualmente:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Dupla ação."
+        },
+        {
+          "letra": "b",
+          "texto": "Repetição."
+        },
+        {
+          "letra": "c",
+          "texto": "Ação simples."
+        },
+        {
+          "letra": "d",
+          "texto": "Ação dupla."
+        }
+      ],
+      "resposta": "c",
+      "justificativa": "Na ação simples, o gatilho só libera o cão, que já foi armado antes, de forma manual ou pelo ciclo da arma.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-018",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "Sistema mecânico em que a arma SÓ pode ser disparada pelo acionamento do gatilho, que engatilha e libera o cão, sem permitir engatilhamento manual:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Dupla ação."
+        },
+        {
+          "letra": "b",
+          "texto": "Ação dupla."
+        },
+        {
+          "letra": "c",
+          "texto": "Semiautomático."
+        },
+        {
+          "letra": "d",
+          "texto": "Ação simples."
+        }
+      ],
+      "resposta": "b",
+      "justificativa": "Na ação dupla, chamada de 'double action only', o gatilho faz as duas funções e não há como armar o cão com o dedo.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-019",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Armas de 'dupla ação' permitem disparar tanto em ação simples (cão previamente armado) quanto em ação dupla (gatilho arma e libera o cão).",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Essa é a definição da cartilha. É o caso da maioria dos revólveres Taurus e de pistolas como a PT 58.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-020",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Raias são sulcos helicoidais na alma do cano que dão ao projétil movimento de rotação, garantindo estabilidade na trajetória.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Essa é a definição de raias da cartilha.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-021",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "Raiamento cujos sulcos giram para a DIREITA é chamado de:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Liso."
+        },
+        {
+          "letra": "b",
+          "texto": "Poligonal."
+        },
+        {
+          "letra": "c",
+          "texto": "Destrógiro."
+        },
+        {
+          "letra": "d",
+          "texto": "Sinistrógiro."
+        }
+      ],
+      "resposta": "c",
+      "justificativa": "Destrógiro gira para a direita e sinistrógiro, para a esquerda.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-022",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "Segundo a cartilha, a alma do cano é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "O conjunto de peças do mecanismo de disparo."
+        },
+        {
+          "letra": "b",
+          "texto": "A parte oca do interior do cano, geralmente da câmara até a boca, que resiste à pressão dos gases e orienta o projétil."
+        },
+        {
+          "letra": "c",
+          "texto": "A parte externa do cano."
+        },
+        {
+          "letra": "d",
+          "texto": "A peça que contém a espoleta."
+        }
+      ],
+      "resposta": "b",
+      "justificativa": "A alma é o interior do cano e pode ser lisa ou raiada.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-023",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Armas de alma lisa têm o interior do cano totalmente polido, sem raiamento, porque não há necessidade de estabilizar os projéteis por rotação. Exemplo: as espingardas.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Essa é a definição da cartilha, que também cita o revólver Taurus RT 410.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-024",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "Calibre medido entre os CHEIOS do cano:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Calibre nominal."
+        },
+        {
+          "letra": "b",
+          "texto": "Gáugio."
+        },
+        {
+          "letra": "c",
+          "texto": "Calibre do projétil."
+        },
+        {
+          "letra": "d",
+          "texto": "Calibre real."
+        }
+      ],
+      "resposta": "d",
+      "justificativa": "O calibre real é medido entre os cheios. O calibre do projétil é medido entre os fundos das raias e por isso é um pouco maior.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-025",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "Calibre medido entre os FUNDOS das raias:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Calibre real."
+        },
+        {
+          "letra": "b",
+          "texto": "Calibre do projétil."
+        },
+        {
+          "letra": "c",
+          "texto": "Calibre comercial."
+        },
+        {
+          "letra": "d",
+          "texto": "Calibre nominal."
+        }
+      ],
+      "resposta": "b",
+      "justificativa": "O projétil precisa preencher as raias para girar, por isso o calibre do projétil é medido entre os fundos delas.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-026",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "O calibre nominal é a designação dada pelo fabricante para caracterizar a munição ou a arma e nem sempre corresponde ao calibre real ou ao do projétil.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Pela cartilha, o calibre nominal é comercial. O .38 SPL, por exemplo, não mede exatamente 0,38 polegada.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-027",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "Na espingarda de repetição, o depósito de cartuchos situado sob o cano é chamado de:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Guarda-mato."
+        },
+        {
+          "letra": "b",
+          "texto": "Carregador tubular."
+        },
+        {
+          "letra": "c",
+          "texto": "Ferrolho."
+        },
+        {
+          "letra": "d",
+          "texto": "Tambor."
+        }
+      ],
+      "resposta": "b",
+      "justificativa": "Nas figuras da cartilha, carabinas e espingardas de repetição aparecem com carregador tubular sob o cano.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-028",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "Dispositivo situado na parte superior e ANTERIOR da arma, usado junto com a alça de mira para dar direção ao disparo:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Massa de mira."
+        },
+        {
+          "letra": "b",
+          "texto": "Soleira."
+        },
+        {
+          "letra": "c",
+          "texto": "Guarda-mão."
+        },
+        {
+          "letra": "d",
+          "texto": "Alça de mira."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "A massa de mira fica na frente, perto da boca do cano. A alça de mira fica atrás.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-029",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Munição",
+      "tipo": "multipla_escolha",
+      "enunciado": "Segundo a cartilha, a munição (cartucho) geralmente se divide em:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Cano, câmara, culatra e projétil."
+        },
+        {
+          "letra": "b",
+          "texto": "Espoleta, gatilho, pólvora e projétil."
+        },
+        {
+          "letra": "c",
+          "texto": "Estojo, espoleta, pólvora e projétil."
+        },
+        {
+          "letra": "d",
+          "texto": "Estojo, ferrolho, pólvora e bala."
+        }
+      ],
+      "resposta": "c",
+      "justificativa": "Os quatro componentes da munição são o estojo, a espoleta, a pólvora e o projétil.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-030",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Munição",
+      "tipo": "multipla_escolha",
+      "enunciado": "Componente de união mecânica do cartucho, que mantém todos os elementos numa única peça e agiliza o carregamento:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Pólvora."
+        },
+        {
+          "letra": "b",
+          "texto": "Projétil."
+        },
+        {
+          "letra": "c",
+          "texto": "Estojo."
+        },
+        {
+          "letra": "d",
+          "texto": "Espoleta."
+        }
+      ],
+      "resposta": "c",
+      "justificativa": "Essa é a definição de estojo da cartilha.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-031",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Munição",
+      "tipo": "multipla_escolha",
+      "enunciado": "Recipiente localizado na base do estojo, com mistura iniciadora que gera chama no momento da percussão:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Espoleta."
+        },
+        {
+          "letra": "b",
+          "texto": "Projétil."
+        },
+        {
+          "letra": "c",
+          "texto": "Bigorna."
+        },
+        {
+          "letra": "d",
+          "texto": "Gola."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "Essa é a definição de espoleta da cartilha.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-032",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Munição",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "A pólvora é um propelente que, iniciado pela chama da espoleta, causa a expansão de gases que arremessam o projétil à frente.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Essa é a definição de pólvora da cartilha.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-033",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Munição",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Projétil, também chamado de bala ou ponta, é a parte do cartucho lançada através do cano.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Essa é a definição de projétil da cartilha.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-034",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Normas de segurança",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Munição velha ou recarregada é confiável e pode ser usada normalmente na prova prática.",
+      "alternativas": null,
+      "resposta": false,
+      "justificativa": "A norma nº 28 diz que munição velha ou recarregada NÃO é confiável, e o regulamento da prova PROÍBE munição recarregada.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-035",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Normas de segurança",
+      "tipo": "multipla_escolha",
+      "enunciado": "De acordo com as normas de segurança, até quando o dedo deve permanecer estendido ao longo do corpo da arma?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Até o instrutor autorizar a entrada no estande."
+        },
+        {
+          "letra": "b",
+          "texto": "Até retirar a arma do coldre."
+        },
+        {
+          "letra": "c",
+          "texto": "Até destravar a arma."
+        },
+        {
+          "letra": "d",
+          "texto": "Até estar realmente apontando para o alvo e pronto para o disparo."
+        }
+      ],
+      "resposta": "d",
+      "justificativa": "Norma nº 6: o dedo só vai ao gatilho com a arma apontada para o alvo e a decisão de atirar tomada.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-036",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Normas de segurança",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Deve-se sempre se certificar de que a arma está descarregada antes de qualquer limpeza.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Norma de segurança nº 8.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-037",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Normas de segurança",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "As travas de segurança substituem o bom senso, por isso uma arma travada pode ser manuseada sem os demais cuidados.",
+      "alternativas": null,
+      "resposta": false,
+      "justificativa": "A norma nº 12 diz o contrário: travas são apenas dispositivos mecânicos e NÃO substituem o bom senso.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-038",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Normas de segurança",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Antes de atirar, certifique-se de que o alvo e a zona ao redor sejam capazes de receber os impactos com máxima segurança.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Norma nº 13. Você responde também pelo que está atrás e ao redor do alvo.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-039",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Normas de segurança",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Sempre que carregar ou descarregar uma arma, faça-o com o cano apontado para uma direção segura.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Norma de segurança nº 16.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-040",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Normas de segurança",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Sempre que entregar uma arma a alguém, entregue-a descarregada.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Norma de segurança nº 18.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-041",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Normas de segurança",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Ao receber uma arma de uma pessoa de confiança que garante que ela está descarregada, é dispensável verificá-la.",
+      "alternativas": null,
+      "resposta": false,
+      "justificativa": "A norma nº 19 manda SEMPRE verificar se a arma está realmente descarregada ao pegá-la, seja quem for que a entregue.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-042",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Normas de segurança",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "É importante verificar se a munição corresponde ao tamanho e ao calibre da arma.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Norma nº 20. Munição errada pode causar obstrução, ruptura do estojo ou explosão da arma.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-043",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Normas de segurança",
+      "tipo": "multipla_escolha",
+      "enunciado": "Por que, ao atirar com revólver, deve-se manter as mãos e as pessoas afastadas da lateral entre o cano e o tambor?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Porque ali fica a trava de segurança."
+        },
+        {
+          "letra": "b",
+          "texto": "Porque é por ali que o estojo é ejetado."
+        },
+        {
+          "letra": "c",
+          "texto": "Porque o tambor gira em alta velocidade."
+        },
+        {
+          "letra": "d",
+          "texto": "Porque o revólver desprende lateralmente gases e resíduos de chumbo na folga entre o cano e o tambor."
+        }
+      ],
+      "resposta": "d",
+      "justificativa": "Norma nº 22: revólveres soltam gases e fragmentos na folga entre tambor e cano. Pistolas e rifles, por sua vez, ejetam estojos quentes pela lateral.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-044",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Normas de segurança",
+      "tipo": "multipla_escolha",
+      "enunciado": "Ao perceber algo anormal no recuo ou no som da detonação durante o tiro, o atirador deve:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Interromper imediatamente os disparos, descarregar a arma e verificar se há obstrução no cano."
+        },
+        {
+          "letra": "b",
+          "texto": "Bater a arma na palma da mão e seguir atirando."
+        },
+        {
+          "letra": "c",
+          "texto": "Continuar a série e avisar o instrutor ao final."
+        },
+        {
+          "letra": "d",
+          "texto": "Disparar novamente para desobstruir o cano."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "Norma nº 23. Um tiro 'fraco' pode deixar o projétil preso no cano, e o disparo seguinte pode romper a arma.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-045",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Normas de segurança",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Mesmo lama, terra ou graxa no cano devem ser removidas antes de atirar, para evitar danos à arma e ao atirador.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Norma nº 23: qualquer obstrução, por menor que pareça, deve ser removida imediatamente.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-046",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Normas de segurança",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "É obrigatório o uso de óculos protetores e abafadores de ruído sempre que estiver atirando.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Norma de segurança nº 24.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-047",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Normas de segurança",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Havendo necessidade de modificar características da arma, o próprio dono pode fazê-lo, desde que tenha experiência com tiro.",
+      "alternativas": null,
+      "resposta": false,
+      "justificativa": "A norma nº 25 diz que NUNCA se devem modificar as características originais da arma. Quando for necessário, o serviço deve ser feito por armeiro profissional qualificado.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-048",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Normas de segurança",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Engatilhar a arma sem intenção de atirar é aceitável, desde que o dedo esteja fora do gatilho.",
+      "alternativas": null,
+      "resposta": false,
+      "justificativa": "A norma nº 2 diz para NUNCA engatilhar a arma se não for atirar.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-049",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Normas de segurança",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Deixar uma arma de forma descuidada, mesmo por pouco tempo, contraria as normas de segurança.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Norma nº 9. Além disso, deixar a arma ao alcance de menor ou de pessoa com deficiência mental pode configurar omissão de cautela (art. 13 da Lei 10.826/03).",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-050",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Normas de segurança",
+      "tipo": "multipla_escolha",
+      "enunciado": "Caso a arma 'negue fogo', por quanto tempo a cartilha recomenda mantê-la apontada para o alvo?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "2 minutos."
+        },
+        {
+          "letra": "b",
+          "texto": "Não é necessário aguardar."
+        },
+        {
+          "letra": "c",
+          "texto": "5 segundos."
+        },
+        {
+          "letra": "d",
+          "texto": "Aproximadamente 30 segundos."
+        }
+      ],
+      "resposta": "d",
+      "justificativa": "Norma nº 17: aguarde cerca de 30 segundos, pois pode haver retardo na ignição do cartucho.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-051",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Conduta no estande",
+      "tipo": "multipla_escolha",
+      "enunciado": "Durante a prova, ocorreu um incidente com a arma. Qual a conduta correta?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Colocar a arma no chão e sair da linha de tiro."
+        },
+        {
+          "letra": "b",
+          "texto": "Virar-se para o instrutor com a arma na mão e mostrar o problema."
+        },
+        {
+          "letra": "c",
+          "texto": "Permanecer de frente para o alvo, com a arma apontada para ele, e levantar o braço oposto."
+        },
+        {
+          "letra": "d",
+          "texto": "Tentar resolver sozinho e continuar a série."
+        }
+      ],
+      "resposta": "c",
+      "justificativa": "Regra nº 5 de conduta no estande: a arma não sai da direção do alvo, e o braço livre sinaliza ao instrutor.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-052",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Conduta no estande",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "No estande de tiro, o candidato pode adiantar um comando que sabe que virá em seguida, para ganhar tempo.",
+      "alternativas": null,
+      "resposta": false,
+      "justificativa": "A regra nº 4 manda NUNCA antecipar a execução de comandos nem fazer nada que não tenha sido comandado.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-053",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Conduta no estande",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual é o fator descrito pela cartilha como PREPONDERANTE para a segurança na linha de tiro?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "O silêncio."
+        },
+        {
+          "letra": "b",
+          "texto": "A iluminação."
+        },
+        {
+          "letra": "c",
+          "texto": "A velocidade de execução."
+        },
+        {
+          "letra": "d",
+          "texto": "A conversa entre atiradores."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "Regra nº 1: o silêncio é preponderante e deve ser observado rigorosamente.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-054",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Regulamento da prova",
+      "tipo": "multipla_escolha",
+      "enunciado": "A prova teórica de capacidade técnica para aquisição, registro, transferência e porte é composta de quantas questões?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "30."
+        },
+        {
+          "letra": "b",
+          "texto": "20."
+        },
+        {
+          "letra": "c",
+          "texto": "15."
+        },
+        {
+          "letra": "d",
+          "texto": "10."
+        }
+      ],
+      "resposta": "b",
+      "justificativa": "Pelo regulamento, são 20 questões objetivas.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-055",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Regulamento da prova",
+      "tipo": "multipla_escolha",
+      "enunciado": "Na prova teórica, como se distribuem as questões por tema?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Segurança 6; nomenclatura 6; estande 3; legislação 5."
+        },
+        {
+          "letra": "b",
+          "texto": "Segurança 10; legislação 10."
+        },
+        {
+          "letra": "c",
+          "texto": "Segurança 5; nomenclatura 5; estande 5; legislação 5."
+        },
+        {
+          "letra": "d",
+          "texto": "Segurança 8; nomenclatura 4; estande 4; legislação 4."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "Normas de segurança 6, nomenclatura e funcionamento 6, conduta no estande 3 e legislação 5, totalizando 20.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-056",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Regulamento da prova",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual o aproveitamento mínimo para aprovação na prova teórica?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "80%."
+        },
+        {
+          "letra": "b",
+          "texto": "60%."
+        },
+        {
+          "letra": "c",
+          "texto": "50%."
+        },
+        {
+          "letra": "d",
+          "texto": "70%."
+        }
+      ],
+      "resposta": "b",
+      "justificativa": "É preciso acertar 60%, ou seja, 12 das 20 questões.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-057",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Regulamento da prova",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Segundo a cartilha, as questões de legislação da prova teórica têm por base a Lei 10.826/03 e o Decreto 5.123/04.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "É o que diz o texto da cartilha.",
+      "gabarito_origem": "gerado",
+      "desatualizada": true,
+      "observacao": "O Decreto 5.123/04 foi revogado. Hoje a regulamentação principal é o Decreto 11.615/2023."
+    },
+    {
+      "id": "GA-058",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Regulamento da prova",
+      "tipo": "multipla_escolha",
+      "enunciado": "Na prova prática para aquisição/registro com arma curta de alma raiada, como são distribuídos os 20 tiros?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "20 tiros a 10 m."
+        },
+        {
+          "letra": "b",
+          "texto": "10 tiros a 5 m e 10 tiros a 7 m."
+        },
+        {
+          "letra": "c",
+          "texto": "10 tiros a 7 m e 10 tiros a 10 m."
+        },
+        {
+          "letra": "d",
+          "texto": "5 tiros a 5 m e 15 tiros a 7 m."
+        }
+      ],
+      "resposta": "b",
+      "justificativa": "São 10 tiros a 5 metros e 10 a 7 metros, no alvo de silhueta humanoide.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-059",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Regulamento da prova",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual o tempo da prova prática com arma curta de alma raiada (aquisição/registro)?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "30 segundos para cada 10 tiros."
+        },
+        {
+          "letra": "b",
+          "texto": "10 segundos para cada 5 tiros."
+        },
+        {
+          "letra": "c",
+          "texto": "Não há limite de tempo."
+        },
+        {
+          "letra": "d",
+          "texto": "20 segundos para cada 5 tiros ou 40 segundos para cada 10 tiros."
+        }
+      ],
+      "resposta": "d",
+      "justificativa": "O limite é de 20 s por sequência de 5 tiros ou 40 s por sequência de 10.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-060",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Regulamento da prova",
+      "tipo": "multipla_escolha",
+      "enunciado": "Na prova prática com arma curta de alma raiada, qual a pontuação mínima para aprovação em cada distância?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "25 de 50 pontos."
+        },
+        {
+          "letra": "b",
+          "texto": "40 de 50 pontos."
+        },
+        {
+          "letra": "c",
+          "texto": "35 de 50 pontos."
+        },
+        {
+          "letra": "d",
+          "texto": "30 de 50 pontos."
+        }
+      ],
+      "resposta": "d",
+      "justificativa": "É preciso fazer 60% da pontuação máxima, ou seja, 30 dos 50 pontos possíveis em cada distância.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-061",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Regulamento da prova",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Na prova prática com pistola de dupla ação, o primeiro disparo é feito em ação dupla e os demais em ação simples; com revólveres, todos os disparos são em ação dupla.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "É o que o regulamento prevê quanto ao sistema de acionamento.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-062",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Regulamento da prova",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Na prova prática com arma de ação simples, o mecanismo de disparo deve estar armado e travado.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Pelo regulamento, armas de ação simples ficam com o cão armado e a trava acionada até o comando de início.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-063",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Regulamento da prova",
+      "tipo": "multipla_escolha",
+      "enunciado": "Em que posição o avaliando inicia a prova prática?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Posição de retenção, com armas dotadas de trava permanecendo travadas até o comando do instrutor."
+        },
+        {
+          "letra": "b",
+          "texto": "Com a arma no coldre e destravada."
+        },
+        {
+          "letra": "c",
+          "texto": "Com a arma apontada para o alvo e o dedo no gatilho."
+        },
+        {
+          "letra": "d",
+          "texto": "Com a arma desmuniciada sobre a bancada."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "É o que dizem as observações do regulamento.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-064",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Regulamento da prova",
+      "tipo": "multipla_escolha",
+      "enunciado": "Após reprovação na prova prática, quando o candidato pode requerer nova avaliação?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Após 15 dias."
+        },
+        {
+          "letra": "b",
+          "texto": "Após 6 meses."
+        },
+        {
+          "letra": "c",
+          "texto": "Imediatamente."
+        },
+        {
+          "letra": "d",
+          "texto": "Após 30 dias."
+        }
+      ],
+      "resposta": "d",
+      "justificativa": "O regulamento prevê nova avaliação após 30 dias.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-065",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Regulamento da prova",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Infringir as normas de segurança ou de conduta no estande pode, a critério do instrutor e conforme a gravidade, levar à reprovação do candidato.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "É o que dizem as observações do regulamento.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-066",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Regulamento da prova",
+      "tipo": "multipla_escolha",
+      "enunciado": "Na prova prática para aquisição com arma curta de ALMA LISA, qual o critério de aprovação?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Impacto no alvo em 50% dos disparos (2 dos 4)."
+        },
+        {
+          "letra": "b",
+          "texto": "Acertar os 4 disparos."
+        },
+        {
+          "letra": "c",
+          "texto": "30 de 50 pontos."
+        },
+        {
+          "letra": "d",
+          "texto": "Acerto nos alvos 1 e 3."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "São 2 séries de 2 tiros a 10 m, com 4 segundos por série, e é preciso acertar o alvo em pelo menos 2 dos 4 disparos.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-067",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Regulamento da prova",
+      "tipo": "multipla_escolha",
+      "enunciado": "Na prova prática com arma LONGA de alma raiada (aquisição), qual a distância do alvo?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "10 metros."
+        },
+        {
+          "letra": "b",
+          "texto": "15 metros."
+        },
+        {
+          "letra": "c",
+          "texto": "20 metros."
+        },
+        {
+          "letra": "d",
+          "texto": "7 metros."
+        }
+      ],
+      "resposta": "c",
+      "justificativa": "São 20 m para alma raiada e 15 m para alma lisa.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-068",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Regulamento da prova",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Na prova prática com arma longa de alma lisa, devem ser utilizados cartuchos com chumbo.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "É o que o regulamento exige.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-069",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Regulamento da prova",
+      "tipo": "multipla_escolha",
+      "enunciado": "Na Parte II da prova para PORTE (defesa pessoal), no alvo de quatro cores, quantos pontos são necessários para aprovação?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "72 de 120."
+        },
+        {
+          "letra": "b",
+          "texto": "60 de 100."
+        },
+        {
+          "letra": "c",
+          "texto": "80 de 120."
+        },
+        {
+          "letra": "d",
+          "texto": "90 de 120."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "São 24 disparos, valendo até 5 pontos cada (120 no total), e é preciso fazer 60%, ou seja, 72 pontos.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-070",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Regulamento da prova",
+      "tipo": "multipla_escolha",
+      "enunciado": "Na Parte II da prova de porte, categoria DEFESA PESSOAL, qual o tempo máximo por série de 4 disparos?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "8 segundos."
+        },
+        {
+          "letra": "b",
+          "texto": "15 segundos."
+        },
+        {
+          "letra": "c",
+          "texto": "10 segundos."
+        },
+        {
+          "letra": "d",
+          "texto": "20 segundos."
+        }
+      ],
+      "resposta": "c",
+      "justificativa": "O limite é de 10 segundos por série. Na categoria funcional condicionado, o limite é de 8 segundos.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-071",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Regulamento da prova",
+      "tipo": "multipla_escolha",
+      "enunciado": "Na prova de porte no alvo de quatro cores, quantos pontos são descontados por tiro dado após o apito ou na cor errada?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "3 pontos."
+        },
+        {
+          "letra": "b",
+          "texto": "2 pontos."
+        },
+        {
+          "letra": "c",
+          "texto": "10 pontos."
+        },
+        {
+          "letra": "d",
+          "texto": "5 pontos."
+        }
+      ],
+      "resposta": "d",
+      "justificativa": "São 5 pontos por tiro fora do tempo ou na cor diferente da comandada. O tiro que erra o alvo inteiro é apenas perdido, sem desconto.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-072",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Regulamento da prova",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Na prova de porte, o candidato daltônico tem as cores do alvo substituídas por números de 1 a 4, e o comando é dado pelos números.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "É o que o regulamento prevê para candidatos comprovadamente daltônicos.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-073",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Regulamento da prova",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Durante a verificação para porte, efetuar um disparo acidental leva à eliminação do candidato.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Pelo regulamento, é eliminado quem não observar as regras de segurança ou efetuar disparo acidental.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-074",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Regulamento da prova",
+      "tipo": "multipla_escolha",
+      "enunciado": "Na prova de porte com arma curta de ALMA LISA (defesa pessoal), com três alvos lado a lado, o candidato será REPROVADO se:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Errar um dos 4 disparos."
+        },
+        {
+          "letra": "b",
+          "texto": "Acertar o alvo 3."
+        },
+        {
+          "letra": "c",
+          "texto": "Houver perfuração na silhueta do alvo 2."
+        },
+        {
+          "letra": "d",
+          "texto": "Acertar o alvo 1."
+        }
+      ],
+      "resposta": "c",
+      "justificativa": "Para aprovação, é preciso acertar exclusivamente os alvos 1 e 3, na ordem comandada. Qualquer perfuração no alvo 2 reprova.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-075",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Regulamento da prova",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Em caso de incidente de tiro durante a verificação para porte, o candidato refaz, ao final da série, os disparos dos cartuchos não deflagrados, no mesmo tempo e posição.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "É o que prevê o regulamento. Se a falha persistir, os cartuchos são substituídos.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-076",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Regulamento da prova",
+      "tipo": "multipla_escolha",
+      "enunciado": "Segundo a tabela 'Relação de armas x tipo/modelo', a espingarda pump de cano simples é classificada como:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Tipo IV, modelo B."
+        },
+        {
+          "letra": "b",
+          "texto": "Tipo II, modelo B."
+        },
+        {
+          "letra": "c",
+          "texto": "Tipo I, modelo A."
+        },
+        {
+          "letra": "d",
+          "texto": "Tipo III, modelo A."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "O tipo IV corresponde às armas longas de alma lisa. Espingardas modernas são do modelo B, e bacamarte e mosquete, do modelo A.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-077",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Regulamento da prova",
+      "tipo": "multipla_escolha",
+      "enunciado": "Na mesma tabela, o revólver de dupla ação e a pistola de dupla ação pertencem ao:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Tipo III (longa, alma raiada)."
+        },
+        {
+          "letra": "b",
+          "texto": "Tipo II (curta, alma lisa)."
+        },
+        {
+          "letra": "c",
+          "texto": "Tipo I (curta, alma raiada)."
+        },
+        {
+          "letra": "d",
+          "texto": "Tipo IV (longa, alma lisa)."
+        }
+      ],
+      "resposta": "c",
+      "justificativa": "Ambos são do tipo I. O revólver é do modelo A e a pistola, do modelo B.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false
+    },
+    {
+      "id": "GA-078",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Legislação",
+      "tipo": "multipla_escolha",
+      "enunciado": "Pela cartilha (base no R-105), qual o limite de energia na saída do cano para uma arma CURTA ser de uso permitido?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Até 500 joules."
+        },
+        {
+          "letra": "b",
+          "texto": "Até 1.000 libras-pé (1.355 joules)."
+        },
+        {
+          "letra": "c",
+          "texto": "Até 1.200 libras-pé (1.620 joules)."
+        },
+        {
+          "letra": "d",
+          "texto": "Até 300 libras-pé (407 joules)."
+        }
+      ],
+      "resposta": "d",
+      "justificativa": "A cartilha fixa o limite em 300 libras-pé (407 J). O Decreto 11.615/2023 voltou a adotar os mesmos 407 J para armas curtas, depois de o Decreto 9.847/2019 ter elevado esse limite para 1.620 J.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false,
+      "observacao": "A cartilha usa a base legal antiga (R-105/Decreto 3.665/00). Os conceitos técnicos continuam válidos, mas os limites legais atuais estão no Decreto 11.615/2023."
+    },
+    {
+      "id": "GA-079",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Legislação",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual dos calibres abaixo a cartilha cita como exemplo de arma curta de uso PERMITIDO?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": ".357 Magnum."
+        },
+        {
+          "letra": "b",
+          "texto": ".40 S&W."
+        },
+        {
+          "letra": "c",
+          "texto": ".380 Auto."
+        },
+        {
+          "letra": "d",
+          "texto": ".45 Auto."
+        }
+      ],
+      "resposta": "c",
+      "justificativa": "O .380 Auto está na lista de uso permitido da cartilha. O .40, o .45 e o .357 Magnum aparecem como uso restrito.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false,
+      "observacao": "A cartilha usa a base legal antiga (R-105/Decreto 3.665/00). Os conceitos técnicos continuam válidos, mas os limites legais atuais estão no Decreto 11.615/2023."
+    },
+    {
+      "id": "GA-080",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Legislação",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Pela cartilha, armas de pressão por gás comprimido ou mola com calibre superior a 6 mm são de uso restrito.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Pela cartilha, até 6 mm a arma de pressão é de uso permitido, e acima disso é de uso restrito.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false,
+      "observacao": "A cartilha usa a base legal antiga (R-105/Decreto 3.665/00). Os conceitos técnicos continuam válidos, mas os limites legais atuais estão no Decreto 11.615/2023."
+    },
+    {
+      "id": "GA-081",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Legislação",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Pela cartilha, a espingarda de calibre 12 com cano MENOR que 24 polegadas (610 mm) é de uso restrito.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Na alma lisa, as de calibre 12 ou maior com cano menor que 24 polegadas são de uso restrito. Com cano igual ou maior, são de uso permitido.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false,
+      "observacao": "A cartilha usa a base legal antiga (R-105/Decreto 3.665/00). Os conceitos técnicos continuam válidos, mas os limites legais atuais estão no Decreto 11.615/2023."
+    },
+    {
+      "id": "GA-082",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Legislação",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Armas que tenham por finalidade dar partida em competições desportivas, usando cartuchos só com pólvora, são de uso permitido.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "Esse é o item 5 da lista de armas de uso permitido da cartilha.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false,
+      "observacao": "A cartilha usa a base legal antiga (R-105/Decreto 3.665/00). Os conceitos técnicos continuam válidos, mas os limites legais atuais estão no Decreto 11.615/2023."
+    },
+    {
+      "id": "GA-083",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Legislação",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Pelo Decreto 11.615/2023, o limite de energia para armas curtas de uso permitido é de 407 joules, o que tornou novamente de uso restrito calibres como 9 mm e .40 S&W.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "O Decreto 11.615/2023 reduziu o limite das armas curtas de uso permitido de 1.620 J, fixado em 2019, para 407 J. O 9 mm, o .40 e o .45 voltaram a ser de uso restrito para o cidadão comum.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false,
+      "observacao": "Questão de atualização legislativa; não consta da cartilha."
+    },
+    {
+      "id": "GA-084",
+      "origem": "gerada_apostila",
+      "fonte": "Gerada a partir da Cartilha de Armamento e Tiro (PF/ANP)",
+      "tema": "Legislação",
+      "tipo": "verdadeiro_falso",
+      "enunciado": "Pelo Decreto 11.615/2023, o cidadão pode adquirir até 2 armas de fogo de uso permitido para defesa pessoal.",
+      "alternativas": null,
+      "resposta": true,
+      "justificativa": "O decreto reduziu de 4 (Decreto 9.845/2019) para 2 o limite de armas para defesa pessoal, sem contar as exceções previstas.",
+      "gabarito_origem": "gerado",
+      "desatualizada": false,
+      "observacao": "Questão de atualização legislativa; não consta da cartilha. Confira se houve alteração posterior."
+    }
+  ]
+}

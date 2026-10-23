@@ -1,0 +1,291 @@
+{
+  "titulo": "Questões complementares – Simulado CAC",
+  "gerado_em": "2026-10-23",
+  "observacao": "Questões escritas para ampliar os temas com poucas questões no banco original. Não vêm da cartilha da PF: as de legislação citam o artigo da Lei 10.826/2003 em que se baseiam; as de estande e segurança seguem regras usuais de estande. Revise antes de divulgar.",
+  "questoes": [
+    {
+      "id": "QC-001", "origem": "complementar", "fonte": "Questão complementar (regras usuais de estande)", "tema": "Conduta no estande", "tipo": "verdadeiro_falso",
+      "enunciado": "Ao ouvir o comando “cessar fogo”, o atirador deve parar de atirar imediatamente, mesmo que esteja no meio de uma série.",
+      "alternativas": null, "resposta": true,
+      "justificativa": "O cessar fogo tem prioridade sobre qualquer outro comando. O atirador para na hora, tira o dedo do gatilho, mantém a arma apontada para o alvo e aguarda as instruções.",
+      "gabarito_origem": "complementar", "desatualizada": false
+    },
+    {
+      "id": "QC-002", "origem": "complementar", "fonte": "Questão complementar (regras usuais de estande)", "tema": "Conduta no estande", "tipo": "verdadeiro_falso",
+      "enunciado": "No estande, só o instrutor pode pedir “cessar fogo”. O atirador que perceber uma situação de risco deve terminar a série e avisar depois.",
+      "alternativas": null, "resposta": false,
+      "justificativa": "Quem percebe uma situação de perigo deve alertar na hora, pedindo cessar fogo. Esperar o fim da série pode ser tarde demais.",
+      "gabarito_origem": "complementar", "desatualizada": false
+    },
+    {
+      "id": "QC-003", "origem": "complementar", "fonte": "Questão complementar (regras usuais de estande)", "tema": "Conduta no estande", "tipo": "verdadeiro_falso",
+      "enunciado": "Para conferir o alvo, o atirador pode avançar além da linha de tiro assim que terminar a sua série, mesmo que os atiradores ao lado ainda estejam com as armas na mão.",
+      "alternativas": null, "resposta": false,
+      "justificativa": "Só se ultrapassa a linha de tiro com autorização do instrutor, depois que todas as armas estiverem descarregadas e seguras.",
+      "gabarito_origem": "complementar", "desatualizada": false
+    },
+    {
+      "id": "QC-004", "origem": "complementar", "fonte": "Questão complementar (regras usuais de estande)", "tema": "Conduta no estande", "tipo": "multipla_escolha",
+      "enunciado": "Na linha de tiro, com a arma empunhada, o atirador ouve alguém chamá-lo por trás. Qual a conduta correta?",
+      "alternativas": [
+        { "letra": "a", "texto": "Virar-se com a arma na mão para ver quem chamou." },
+        { "letra": "b", "texto": "Continuar voltado para o alvo, com a arma apontada para ele e o dedo fora do gatilho, sem se virar." },
+        { "letra": "c", "texto": "Abaixar a arma e girar o corpo devagar." },
+        { "letra": "d", "texto": "Colocar a arma na cintura e virar-se." }
+      ],
+      "resposta": "b",
+      "justificativa": "Virar-se com a arma na mão leva o cano na direção de outras pessoas. O atirador continua voltado para o alvo e só se vira depois de descarregar e depositar a arma, se o instrutor mandar.",
+      "gabarito_origem": "complementar", "desatualizada": false
+    },
+    {
+      "id": "QC-005", "origem": "complementar", "fonte": "Questão complementar (regras usuais de estande)", "tema": "Conduta no estande", "tipo": "verdadeiro_falso",
+      "enunciado": "Os óculos de proteção e o protetor auricular podem ser retirados no estande sempre que o atirador não estiver disparando, mesmo que outras pessoas estejam atirando.",
+      "alternativas": null, "resposta": false,
+      "justificativa": "O ruído e o risco de estilhaços existem enquanto houver tiros no estande, e não só para quem está atirando. A proteção fica até o fim dos disparos.",
+      "gabarito_origem": "complementar", "desatualizada": false
+    },
+    {
+      "id": "QC-006", "origem": "complementar", "fonte": "Questão complementar (regras usuais de estande)", "tema": "Conduta no estande", "tipo": "verdadeiro_falso",
+      "enunciado": "Ao terminar os disparos, o atirador deve deixar a arma descarregada e aberta, com o cano voltado para o alvo, e aguardar a verificação do instrutor.",
+      "alternativas": null, "resposta": true,
+      "justificativa": "Com a arma aberta, dá para ver de longe que não há munição. A verificação pelo instrutor encerra a série com segurança.",
+      "gabarito_origem": "complementar", "desatualizada": false
+    },
+    {
+      "id": "QC-007", "origem": "complementar", "fonte": "Questão complementar (regras usuais de estande)", "tema": "Conduta no estande", "tipo": "multipla_escolha",
+      "enunciado": "Durante a série, um estojo quente cai dentro da gola da camisa do atirador. O que ele deve fazer?",
+      "alternativas": [
+        { "letra": "a", "texto": "Virar-se para trás e sacudir a camisa com a arma na mão." },
+        { "letra": "b", "texto": "Largar a arma na bancada de qualquer jeito e tirar o estojo." },
+        { "letra": "c", "texto": "Manter a arma apontada para o alvo, tirar o dedo do gatilho, interromper o tiro e só então resolver o problema ou chamar o instrutor." },
+        { "letra": "d", "texto": "Continuar atirando para terminar a série logo." }
+      ],
+      "resposta": "c",
+      "justificativa": "A reação instintiva de se virar causa muitos acidentes em estande. Primeiro se garante a direção do cano e o dedo fora do gatilho.",
+      "gabarito_origem": "complementar", "desatualizada": false
+    },
+    {
+      "id": "QC-008", "origem": "complementar", "fonte": "Questão complementar (regras usuais de estande)", "tema": "Conduta no estande", "tipo": "multipla_escolha",
+      "enunciado": "A arma escorrega da mão do atirador e cai no chão do estande. Qual a conduta correta?",
+      "alternativas": [
+        { "letra": "a", "texto": "Tentar agarrá-la ainda no ar." },
+        { "letra": "b", "texto": "Abaixar-se e apanhá-la rapidamente para não atrasar a prova." },
+        { "letra": "c", "texto": "Não tentar agarrá-la nem apanhá-la; ficar parado e avisar o instrutor." },
+        { "letra": "d", "texto": "Empurrá-la com o pé para longe das pessoas." }
+      ],
+      "resposta": "c",
+      "justificativa": "Tentar agarrar uma arma em queda pode levar a mão ao gatilho e causar um disparo. Quem recolhe a arma é o instrutor, que também verifica se ela foi danificada.",
+      "gabarito_origem": "complementar", "desatualizada": false
+    },
+    {
+      "id": "QC-009", "origem": "complementar", "fonte": "Questão complementar (regras usuais de estande)", "tema": "Conduta no estande", "tipo": "verdadeiro_falso",
+      "enunciado": "Enquanto espera sua vez atrás da linha de tiro, o candidato pode tirar a arma da caixa para conferir se ela está funcionando.",
+      "alternativas": null, "resposta": false,
+      "justificativa": "Fora da linha de tiro, a arma fica guardada e descarregada. Ela só é manuseada na linha, sob comando do instrutor.",
+      "gabarito_origem": "complementar", "desatualizada": false
+    },
+    {
+      "id": "QC-010", "origem": "complementar", "fonte": "Questão complementar (regras usuais de estande)", "tema": "Conduta no estande", "tipo": "verdadeiro_falso",
+      "enunciado": "No estande, o atirador não deve pegar a arma de outra pessoa sem autorização do dono e do instrutor.",
+      "alternativas": null, "resposta": true,
+      "justificativa": "Pegar a arma de outro, ainda que só para olhar, cria um manuseio fora de controle e confusão sobre quem é responsável por ela.",
+      "gabarito_origem": "complementar", "desatualizada": false
+    },
+    {
+      "id": "QC-011", "origem": "complementar", "fonte": "Questão complementar (regras usuais de estande)", "tema": "Conduta no estande", "tipo": "verdadeiro_falso",
+      "enunciado": "Na prova, se sobrar munição, o candidato pode atirar também no alvo da raia ao lado, desde que acerte.",
+      "alternativas": null, "resposta": false,
+      "justificativa": "Cada atirador atira só no seu alvo, dentro da sua raia. Atirar em direção a outra raia muda o ângulo do tiro e é falta grave de segurança.",
+      "gabarito_origem": "complementar", "desatualizada": false
+    },
+    {
+      "id": "QC-012", "origem": "complementar", "fonte": "Questão complementar (regras usuais de estande)", "tema": "Conduta no estande", "tipo": "multipla_escolha",
+      "enunciado": "Qual destas atitudes combina com a disciplina da linha de tiro?",
+      "alternativas": [
+        { "letra": "a", "texto": "Usar o celular entre um disparo e outro." },
+        { "letra": "b", "texto": "Fazer brincadeiras com o atirador ao lado para aliviar a tensão." },
+        { "letra": "c", "texto": "Manter atenção total nos comandos e na própria arma." },
+        { "letra": "d", "texto": "Filmar os outros atiradores durante a série." }
+      ],
+      "resposta": "c",
+      "justificativa": "Qualquer distração tira a atenção dos comandos e da arma. Por isso celular, brincadeiras e filmagens ficam fora da linha de tiro.",
+      "gabarito_origem": "complementar", "desatualizada": false
+    },
+    {
+      "id": "QC-013", "origem": "complementar", "fonte": "Questão complementar (regras usuais de estande)", "tema": "Conduta no estande", "tipo": "verdadeiro_falso",
+      "enunciado": "O atirador não deve sair da linha de tiro levando a arma sem ordem do instrutor.",
+      "alternativas": null, "resposta": true,
+      "justificativa": "Sair da linha com a arma leva o cano para fora da área controlada, onde há pessoas. A arma fica na linha até o instrutor liberar.",
+      "gabarito_origem": "complementar", "desatualizada": false
+    },
+    {
+      "id": "QC-014", "origem": "complementar", "fonte": "Questão complementar (regras usuais de estande)", "tema": "Conduta no estande", "tipo": "multipla_escolha",
+      "enunciado": "Antes de começar a prova prática, o que o candidato deve fazer?",
+      "alternativas": [
+        { "letra": "a", "texto": "Carregar a arma para ganhar tempo." },
+        { "letra": "b", "texto": "Ouvir com atenção as instruções do instrutor sobre comandos e procedimentos, e tirar as dúvidas antes de ir para a linha." },
+        { "letra": "c", "texto": "Fazer alguns disparos de teste por conta própria." },
+        { "letra": "d", "texto": "Escolher a raia que preferir e se posicionar." }
+      ],
+      "resposta": "b",
+      "justificativa": "As instruções iniciais explicam os comandos que serão usados. Dúvidas tiradas antes evitam conversas e improvisos na linha de tiro.",
+      "gabarito_origem": "complementar", "desatualizada": false
+    },
+    {
+      "id": "QC-015", "origem": "complementar", "fonte": "Questão complementar (regras usuais de estande)", "tema": "Conduta no estande", "tipo": "verdadeiro_falso",
+      "enunciado": "A arma deve chegar ao estande descarregada e guardada em caixa, estojo ou coldre adequado.",
+      "alternativas": null, "resposta": true,
+      "justificativa": "Até chegar à linha de tiro, a arma fica descarregada e protegida. Ela só sai da caixa na linha, quando o instrutor autorizar.",
+      "gabarito_origem": "complementar", "desatualizada": false
+    },
+    {
+      "id": "QC-016", "origem": "complementar", "fonte": "Questão complementar (regras gerais de segurança)", "tema": "Normas de segurança", "tipo": "verdadeiro_falso",
+      "enunciado": "Antes de pular uma cerca, atravessar uma vala ou subir um barranco, deve-se descarregar a arma.",
+      "alternativas": null, "resposta": true,
+      "justificativa": "Em obstáculos, o risco de tropeçar ou de a arma se prender em algo é grande. Descarregada, uma queda não causa disparo.",
+      "gabarito_origem": "complementar", "desatualizada": false
+    },
+    {
+      "id": "QC-017", "origem": "complementar", "fonte": "Questão complementar (regras gerais de segurança)", "tema": "Normas de segurança", "tipo": "verdadeiro_falso",
+      "enunciado": "Atirar para o alto em comemorações é seguro, porque o projétil perde toda a força antes de cair.",
+      "alternativas": null, "resposta": false,
+      "justificativa": "O projétil volta ao chão com velocidade suficiente para ferir ou matar, e não dá para saber onde vai cair. Além disso, disparar em lugar habitado é crime (art. 15 da Lei 10.826/2003).",
+      "gabarito_origem": "complementar", "desatualizada": false
+    },
+    {
+      "id": "QC-018", "origem": "complementar", "fonte": "Questão complementar (regras gerais de segurança)", "tema": "Normas de segurança", "tipo": "verdadeiro_falso",
+      "enunciado": "A munição pode ser guardada perto de fontes de calor, como o fogão ou o motor do carro, sem prejuízo para a segurança.",
+      "alternativas": null, "resposta": false,
+      "justificativa": "Calor e umidade estragam a pólvora e a espoleta, o que pode causar falhas ou pressões anormais no disparo. Munição deve ficar em local seco, arejado e longe do calor.",
+      "gabarito_origem": "complementar", "desatualizada": false
+    },
+    {
+      "id": "QC-019", "origem": "complementar", "fonte": "Questão complementar (regras gerais de segurança)", "tema": "Normas de segurança", "tipo": "verdadeiro_falso",
+      "enunciado": "No transporte em veículo, a arma deve ir descarregada e guardada, de preferência separada da munição.",
+      "alternativas": null, "resposta": true,
+      "justificativa": "Descarregada e guardada, a arma não dispara em freadas, solavancos ou num manuseio apressado. Separar a munição acrescenta mais uma barreira. Lembre que o transporte também exige a documentação própria, como a guia de trânsito.",
+      "gabarito_origem": "complementar", "desatualizada": false
+    },
+    {
+      "id": "QC-020", "origem": "complementar", "fonte": "Questão complementar (regras gerais de segurança)", "tema": "Normas de segurança", "tipo": "multipla_escolha",
+      "enunciado": "Uma criança encontra uma arma em casa. O que ela deve ter aprendido a fazer?",
+      "alternativas": [
+        { "letra": "a", "texto": "Pegar a arma com cuidado e levá-la a um adulto." },
+        { "letra": "b", "texto": "Não tocar na arma, afastar-se e chamar um adulto na hora." },
+        { "letra": "c", "texto": "Verificar se a arma está carregada." },
+        { "letra": "d", "texto": "Esconder a arma para ninguém se machucar." }
+      ],
+      "resposta": "b",
+      "justificativa": "Qualquer manuseio por uma criança pode provocar um disparo. A regra que se ensina é: não tocar, sair de perto e chamar um adulto. Isso não substitui a obrigação de guardar a arma fora do alcance dela.",
+      "gabarito_origem": "complementar", "desatualizada": false
+    },
+    {
+      "id": "QC-021", "origem": "complementar", "fonte": "Questão complementar (regras gerais de segurança)", "tema": "Normas de segurança", "tipo": "verdadeiro_falso",
+      "enunciado": "Mesmo descarregada, uma arma não deve ser usada em brincadeiras nem para assustar alguém.",
+      "alternativas": null, "resposta": true,
+      "justificativa": "Não se aponta arma para quem não se pretende atingir, esteja ela carregada ou não. Muitos acidentes acontecem com armas que todos achavam descarregadas.",
+      "gabarito_origem": "complementar", "desatualizada": false
+    },
+    {
+      "id": "QC-022", "origem": "complementar", "fonte": "Questão complementar (regras gerais de segurança)", "tema": "Normas de segurança", "tipo": "multipla_escolha",
+      "enunciado": "Durante um treino, o atirador percebe que está muito cansado e com dificuldade de concentração. O mais seguro é:",
+      "alternativas": [
+        { "letra": "a", "texto": "Continuar, porque o cansaço não afeta o manuseio." },
+        { "letra": "b", "texto": "Interromper o tiro, descarregar a arma e descansar." },
+        { "letra": "c", "texto": "Atirar mais rápido para terminar logo." },
+        { "letra": "d", "texto": "Tomar um café e completar a série sem pausa." }
+      ],
+      "resposta": "b",
+      "justificativa": "Cansaço e falta de concentração aumentam a chance de erro no manuseio. Atirar exige atenção total; na dúvida, para-se e descansa.",
+      "gabarito_origem": "complementar", "desatualizada": false
+    },
+    {
+      "id": "QC-023", "origem": "complementar", "fonte": "Questão complementar (Lei 10.826/2003, art. 13)", "tema": "Legislação", "tipo": "multipla_escolha",
+      "enunciado": "Pela Lei 10.826/2003, deixar de tomar as cautelas necessárias para impedir que menor de 18 anos ou pessoa com deficiência mental se apodere de arma de fogo que esteja sob sua posse ou seja de sua propriedade configura:",
+      "alternativas": [
+        { "letra": "a", "texto": "O crime de omissão de cautela, punido com detenção." },
+        { "letra": "b", "texto": "O crime de porte ilegal de arma de fogo de uso permitido." },
+        { "letra": "c", "texto": "O crime de disparo de arma de fogo." },
+        { "letra": "d", "texto": "Apenas uma infração administrativa, sem crime." }
+      ],
+      "resposta": "a",
+      "justificativa": "É a omissão de cautela do art. 13, com pena de detenção de 1 a 2 anos e multa. O dono responde por deixar a arma ao alcance de quem não pode tê-la.",
+      "gabarito_origem": "complementar", "desatualizada": false
+    },
+    {
+      "id": "QC-024", "origem": "complementar", "fonte": "Questão complementar (Lei 10.826/2003, art. 6º)", "tema": "Legislação", "tipo": "verdadeiro_falso",
+      "enunciado": "Pela Lei 10.826/2003, o porte de arma de fogo é, como regra, proibido em todo o território nacional, salvo nos casos previstos em legislação própria e na própria lei.",
+      "alternativas": null, "resposta": true,
+      "justificativa": "O art. 6º estabelece a proibição do porte como regra. O porte é exceção e depende de previsão legal e de autorização.",
+      "gabarito_origem": "complementar", "desatualizada": false
+    },
+    {
+      "id": "QC-025", "origem": "complementar", "fonte": "Questão complementar (Lei 10.826/2003, art. 10, § 2º)", "tema": "Legislação", "tipo": "verdadeiro_falso",
+      "enunciado": "A autorização de porte de arma de fogo perde automaticamente a eficácia se o portador for detido ou abordado embriagado ou sob efeito de substâncias químicas ou alucinógenas.",
+      "alternativas": null, "resposta": true,
+      "justificativa": "É o que diz o art. 10, § 2º, da Lei 10.826/2003. A perda é automática e não depende de outro processo.",
+      "gabarito_origem": "complementar", "desatualizada": false
+    },
+    {
+      "id": "QC-026", "origem": "complementar", "fonte": "Questão complementar (Lei 10.826/2003, art. 32)", "tema": "Legislação", "tipo": "verdadeiro_falso",
+      "enunciado": "Quem entrega espontaneamente sua arma de fogo à Polícia Federal pode ser indenizado e, presumida a boa-fé, tem extinta a punibilidade de eventual posse irregular dessa arma.",
+      "alternativas": null, "resposta": true,
+      "justificativa": "O art. 32 da Lei 10.826/2003 prevê a entrega espontânea mediante recibo, com indenização na forma do regulamento e extinção da punibilidade da posse irregular.",
+      "gabarito_origem": "complementar", "desatualizada": false
+    },
+    {
+      "id": "QC-027", "origem": "complementar", "fonte": "Questão complementar (Lei 10.826/2003, art. 10, § 1º)", "tema": "Legislação", "tipo": "multipla_escolha",
+      "enunciado": "Para obter autorização de porte de arma de fogo de uso permitido, além de atender aos requisitos de aquisição, o requerente deve:",
+      "alternativas": [
+        { "letra": "a", "texto": "Ter mais de 30 anos de idade." },
+        { "letra": "b", "texto": "Demonstrar efetiva necessidade, por atividade profissional de risco ou por ameaça à sua integridade física." },
+        { "letra": "c", "texto": "Ter pelo menos duas armas registradas." },
+        { "letra": "d", "texto": "Ser filiado a um clube de tiro." }
+      ],
+      "resposta": "b",
+      "justificativa": "O art. 10, § 1º, exige a demonstração de efetiva necessidade, o atendimento aos requisitos do art. 4º e a apresentação do registro da arma.",
+      "gabarito_origem": "complementar", "desatualizada": false
+    },
+    {
+      "id": "QC-028", "origem": "complementar", "fonte": "Questão complementar (Lei 10.826/2003, art. 4º, § 1º)", "tema": "Legislação", "tipo": "verdadeiro_falso",
+      "enunciado": "A autorização de compra de arma de fogo expedida pelo Sinarm sai em nome do requerente e para a arma indicada, e é intransferível.",
+      "alternativas": null, "resposta": true,
+      "justificativa": "O art. 4º, § 1º, prevê que a autorização é emitida em nome do requerente, para a arma indicada, e não pode ser passada a outra pessoa.",
+      "gabarito_origem": "complementar", "desatualizada": false
+    },
+    {
+      "id": "QC-029", "origem": "complementar", "fonte": "Questão complementar (Lei 10.826/2003, art. 4º, § 2º)", "tema": "Legislação", "tipo": "verdadeiro_falso",
+      "enunciado": "Quem tem uma arma registrada pode comprar munição de qualquer calibre, já que possui o registro.",
+      "alternativas": null, "resposta": false,
+      "justificativa": "Pelo art. 4º, § 2º, a munição só pode ser comprada no calibre da arma registrada e na quantidade fixada no regulamento.",
+      "gabarito_origem": "complementar", "desatualizada": false
+    },
+    {
+      "id": "QC-030", "origem": "complementar", "fonte": "Questão complementar (Lei 10.826/2003, art. 16, § 1º)", "tema": "Legislação", "tipo": "verdadeiro_falso",
+      "enunciado": "Suprimir ou alterar a numeração de uma arma de fogo é crime com a mesma pena da posse ou do porte ilegal de arma de uso restrito, ainda que a arma seja de uso permitido.",
+      "alternativas": null, "resposta": true,
+      "justificativa": "O art. 16, § 1º, aplica a mesma pena (reclusão de 3 a 6 anos e multa) a quem suprime ou altera marca, numeração ou outro sinal de identificação da arma, seja qual for o seu calibre.",
+      "gabarito_origem": "complementar", "desatualizada": false
+    },
+    {
+      "id": "QC-031", "origem": "complementar", "fonte": "Questão complementar (Lei 10.826/2003, arts. 5º e 14)", "tema": "Legislação", "tipo": "multipla_escolha",
+      "enunciado": "Um cidadão tem o CRAF de sua pistola .380, de uso permitido, mas não tem autorização de porte. Ele leva a arma na cintura até o supermercado. Essa conduta:",
+      "alternativas": [
+        { "letra": "a", "texto": "É permitida, porque a arma está registrada." },
+        { "letra": "b", "texto": "É permitida, desde que a arma esteja descarregada." },
+        { "letra": "c", "texto": "Configura porte ilegal de arma de fogo de uso permitido." },
+        { "letra": "d", "texto": "Configura apenas posse irregular de arma de fogo." }
+      ],
+      "resposta": "c",
+      "justificativa": "O CRAF só autoriza manter a arma em casa ou no local de trabalho (art. 5º). Levá-la consigo sem autorização de porte é o crime do art. 14, punido com reclusão de 2 a 4 anos e multa.",
+      "gabarito_origem": "complementar", "desatualizada": false
+    },
+    {
+      "id": "QC-032", "origem": "complementar", "fonte": "Questão complementar (Lei 10.826/2003, art. 4º, III)", "tema": "Legislação", "tipo": "verdadeiro_falso",
+      "enunciado": "Comprovar capacidade técnica e aptidão psicológica para o manuseio de arma de fogo é um dos requisitos para adquirir arma de uso permitido.",
+      "alternativas": null, "resposta": true,
+      "justificativa": "O art. 4º, III, exige essas duas comprovações. A prova de capacidade técnica, que este simulado prepara, é a forma de atestar a primeira.",
+      "gabarito_origem": "complementar", "desatualizada": false
+    }
+  ]
+}
