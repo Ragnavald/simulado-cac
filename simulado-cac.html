@@ -56,7 +56,7 @@ button{font:inherit;color:inherit}
 .sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 .mono{font-family:var(--f-mono);font-variant-numeric:tabular-nums}
 .muted{color:var(--muted)}
-.wrap{max-width:52rem;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.wrap{max-width:72rem;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
 .stack{display:grid;gap:1rem}
 .row{display:flex;flex-wrap:wrap;gap:.625rem;align-items:center}
 .eyebrow{font:600 .8125rem/1.3 var(--f-body);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
@@ -92,9 +92,9 @@ body.in-quiz .top{display:none}
 .link.danger{color:var(--bad)}
 
 /* Home */
-main{padding-block:2rem 3rem}
-.home{display:grid;gap:2.5rem}
-.hero{display:grid;gap:1.25rem;padding-top:.5rem}
+main{padding-block:1.25rem 2rem}
+.home{display:grid;gap:1.75rem}
+.hero{display:grid;gap:1rem}
 .hero h1{font:700 clamp(2.25rem,6vw,3.5rem)/1.02 var(--f-display);letter-spacing:-.005em;text-transform:uppercase;max-width:18ch}
 .lede{font-size:1.125rem;color:var(--muted);max-width:60ch}
 .sheet{margin:0;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:1.25rem;display:grid;gap:1rem;box-shadow:var(--shadow)}
@@ -173,6 +173,15 @@ legend{font-weight:700;padding:0;margin-bottom:.625rem}
 .about p{color:var(--muted);font-size:.9375rem}
 footer{border-top:1px solid var(--line);padding-block:1.5rem 2rem;color:var(--muted);font-size:.875rem}
 footer p{max-width:70ch}
+footer .pix-line{margin-top:.75rem;display:flex;flex-wrap:wrap;gap:.25rem .75rem;align-items:center}
+footer .pix-line b{color:var(--fg);font-family:var(--f-mono);font-weight:500}
+
+/* Apoio (Pix) */
+.apoio{display:flex;flex-wrap:wrap;gap:1rem 1.5rem;align-items:center;justify-content:space-between}
+.apoio .stack{gap:.375rem;max-width:52ch}
+.apoio h2{font-size:1.375rem}
+.pix-key{display:flex;flex-wrap:wrap;gap:.625rem;align-items:center}
+.pix-key code{font:500 1.0625rem/1.2 var(--f-mono);background:var(--surface-2);border:1px solid var(--line);border-radius:8px;padding:.5rem .75rem;user-select:all}
 body.in-quiz footer{display:none}
 
 /* Questão */
@@ -194,7 +203,7 @@ body.in-quiz footer{display:none}
 .cell.flag::after{content:"";position:absolute;top:-4px;right:-4px;width:9px;height:9px;border-radius:50%;background:var(--accent);border:2px solid var(--bg)}
 .pbar{height:6px;border-radius:99px;background:var(--surface-2);margin-bottom:.75rem;overflow:hidden}
 .pbar span{display:block;height:100%;background:var(--fg);transition:width .3s}
-.qwrap{display:grid;gap:1rem;padding-top:1.25rem}
+.qwrap{display:grid;gap:1rem;padding-top:1rem}
 .qcard{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:clamp(1.125rem,3.5vw,1.75rem);display:grid;gap:1.25rem;box-shadow:var(--shadow)}
 .qmeta{display:flex;flex-wrap:wrap;gap:.5rem .75rem;align-items:center}
 .tag{display:inline-block;padding:.2rem .625rem;border-radius:6px;background:var(--surface-2);font-size:.8125rem;font-weight:700}
@@ -347,6 +356,8 @@ mark{background:var(--accent-soft);color:inherit;border-radius:3px;padding:0 .1e
 
 @media (max-width:640px){
   body{font-size:1rem}
+  .wrap{padding-left:max(12px,env(safe-area-inset-left,0px));padding-right:max(12px,env(safe-area-inset-right,0px))}
+  .panel,.qcard,.sheet{padding:1rem}
   .pt-promo{grid-template-columns:1fr}
   .pt-promo .thumb{display:none}
   .pt-chips{flex-wrap:nowrap;overflow-x:auto;padding-bottom:.25rem;scrollbar-width:thin}
@@ -395,6 +406,7 @@ mark{background:var(--accent-soft);color:inherit;border-radius:3px;padding:0 .1e
 <footer>
   <div class="wrap">
     <p>Simulado CAC é um material de estudo independente e não tem vínculo com a Polícia Federal. A legislação foi conferida com o Decreto 11.615/2023; confira sempre as normas em vigor antes da prova. Seu progresso fica salvo apenas neste navegador.</p>
+    <p class="pix-line">O site é gratuito. Se ele te ajudou, apoie com Pix (celular): <b>(11) 91040-1320</b> <button class="link" data-action="copy-pix">Copiar chave</button></p>
   </div>
 </footer>
 
@@ -447,6 +459,9 @@ const ICON = {
   flag: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 21V4M5 4h11l-2 4 2 4H5"/></svg>',
   target: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4.5"/></svg>'
 };
+
+/* chave Pix para doações: PIX_KEY é o que vai para a área de transferência, PIX_LABEL é o que aparece na tela */
+const PIX_KEY = "+5511910401320", PIX_LABEL = "(11) 91040-1320";
 
 /* ---------- armazenamento local ---------- */
 const KEY = "simulado-cac-v1";
@@ -962,6 +977,7 @@ function viewResult(){
       <h2 id="pt-t">Por tema</h2>
       <ul class="temas">${groups}</ul>
     </section>
+    ${viewApoio()}
     <section class="stack" aria-labelledby="gab-t">
       <h2 class="section-title" id="gab-t">Gabarito comentado</h2>
       <div class="segctl" role="group" aria-label="Filtrar questões">
@@ -1027,6 +1043,27 @@ function ptUnplace(nome){
 function ptCounts(a){
   const st = ptState(a), zs = PARTES[a].zonas;
   return { n: zs.length, filled: zs.filter(z => st.place[z.id]).length, ok: zs.filter(z => st.place[z.id] === z.nome).length };
+}
+function viewApoio(){
+  return `<section class="panel apoio" aria-labelledby="apoio-t">
+    <div class="stack">
+      <h2 id="apoio-t">Apoie o Simulado CAC</h2>
+      <p class="muted">O site é gratuito e sem anúncios. Se ele está ajudando nos estudos, qualquer valor via Pix ajuda a manter e ampliar o banco de questões.</p>
+    </div>
+    <div class="pix-key"><code>${esc(PIX_LABEL)}</code><button class="btn ink" data-action="copy-pix">Copiar chave Pix</button></div>
+  </section>`;
+}
+async function copyPix(){
+  let ok = false;
+  try { await navigator.clipboard.writeText(PIX_KEY); ok = true; } catch(e){}
+  if (!ok){
+    const ta = document.createElement("textarea");
+    ta.value = PIX_KEY; ta.setAttribute("readonly", ""); ta.style.cssText = "position:fixed;opacity:0";
+    document.body.appendChild(ta); ta.select();
+    try { ok = document.execCommand("copy"); } catch(e){}
+    ta.remove();
+  }
+  toast(ok ? "Chave Pix copiada. No app do banco, escolha Pix com chave de celular." : "Não deu para copiar. A chave é o celular " + PIX_LABEL + ".");
 }
 function viewPartesPromo(){
   const prog = ARMAS.map(a => {
@@ -1295,6 +1332,7 @@ document.addEventListener("click", async e => {
   const a = el.dataset.action, s = store.session;
   switch (a){
     case "home": go("home"); break;
+    case "copy-pix": copyPix(); break;
     case "banco": go("banco"); break;
     case "partes": go("partes"); break;
     case "pt-arma": case "pt-chip": case "pt-zone": case "pt-check": case "pt-show": case "pt-reset": ptClick(a, el); break;
