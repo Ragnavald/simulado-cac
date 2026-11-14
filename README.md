@@ -4,7 +4,8 @@ Site de estudo para a prova teórica de capacidade técnica para manuseio de arm
 
 O que o site tem:
 
-- **Simulado da prova:** 20 questões na divisão do regulamento (6 de normas de segurança, 6 de nomenclatura e funcionamento, 5 de legislação, 3 de conduta no estande), aprovação com 12 acertos, gabarito comentado no fim.
+- **Simulado da prova:** 20 questões na divisão do regulamento (6 de normas de segurança, 6 de nomenclatura e funcionamento, 5 de legislação, 3 de conduta no estande), aprovação com 12 acertos, gabarito comentado no fim. Abre como um caderno de prova em PDF: capa, folhas A4 que vão sendo desenhadas enquanto a pessoa rola, alternativas marcadas com caneta azul e folha de respostas ao lado (no celular, numa gaveta).
+- **Prova anterior:** a prova de seleção do IAPEN/AP para o curso de instrutor de armamento e tiro, com as 35 questões na ordem original, no mesmo formato de caderno.
 - **Treino por tema:** escolha de temas, tipo e quantidade, com a explicação logo após cada resposta.
 - **Revisar erros:** as questões erradas voltam até a pessoa acertar.
 - **Partes da arma:** desenhos do revólver e da pistola para completar com o nome das peças.
@@ -21,6 +22,7 @@ O site pronto é [`site/index.html`](site/index.html). Basta hospedar esse arqui
 | `questoes_cac.json` | Banco original de questões |
 | `questoes_complementares.json` | Questões complementares escritas para ampliar estande, segurança e legislação (revisar antes de divulgar) |
 | `assets/grupos.json` | Questões que cobram o mesmo assunto; o sorteio usa no máximo uma de cada grupo por prova |
+| `assets/provas.json` | Provas anteriores oferecidas na íntegra: título, duração e os ids do banco em cada seção, na ordem original |
 | `assets/revolver.png`, `assets/pistola.png` | Imagens originais dos desenhos |
 | `prep_images.py` | Apaga os nomes das peças nas imagens e define onde fica cada lacuna |
 | `template.html` | Layout, estilos e código do site |

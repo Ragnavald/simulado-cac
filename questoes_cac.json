@@ -9,7 +9,7 @@
     "gabarito_origem": "fornecido (gabarito do simulado original) | inferido (original sem gabarito) | revisado (gabarito original corrigido ou questão adaptada) | gerado",
     "desatualizada": "true quando a resposta depende de norma revogada ou alterada"
   },
-  "total": 202,
+  "total": 219,
   "questoes": [
     {
       "id": "BQ-001",
@@ -2679,6 +2679,519 @@
       "justificativa": "Essa é a definição de estojo.",
       "gabarito_origem": "fornecido",
       "desatualizada": false
+    },
+    {
+      "id": "BQ-119",
+      "origem": "banco_de_questoes",
+      "fonte": "Seleção para Instrutor de Armamento e Tiro (IAPEN/AP)",
+      "tema": "Legislação",
+      "tipo": "multipla_escolha",
+      "enunciado": "De acordo com a Lei nº 10.826/2003 e seus decretos regulamentadores, o órgão competente para o cadastro de uma arma de fogo pertencente a integrante do Corpo de Bombeiros Militar é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "A Polícia Federal, caso a arma seja de calibre permitido, e o Comando do Exército, caso seja de calibre restrito."
+        },
+        {
+          "letra": "b",
+          "texto": "O Comando do Exército, em qualquer caso."
+        },
+        {
+          "letra": "c",
+          "texto": "A Polícia Federal, em qualquer caso, por se tratar de instituição estadual."
+        },
+        {
+          "letra": "d",
+          "texto": "Os registros próprios do Corpo de Bombeiros Militar."
+        }
+      ],
+      "resposta": "b",
+      "justificativa": "As armas dos integrantes das polícias militares e dos corpos de bombeiros militares, inclusive as particulares, são cadastradas no Sigma, mantido pelo Comando do Exército, seja o calibre permitido ou restrito (Decreto 9.847/2019, art. 4º, § 2º, II, b). O Sinarm, da Polícia Federal, reúne as armas dos civis e de outras instituições.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false,
+      "observacao": "O Decreto 11.615/2023 revogou boa parte do Decreto 9.847/2019, mas manteve esse trecho do art. 4º."
+    },
+    {
+      "id": "BQ-120",
+      "origem": "banco_de_questoes",
+      "fonte": "Seleção para Instrutor de Armamento e Tiro (IAPEN/AP)",
+      "tema": "Legislação",
+      "tipo": "multipla_escolha",
+      "enunciado": "Considerando a Lei nº 10.826/2003, os integrantes do quadro efetivo de agentes e guardas prisionais poderão portar arma de fogo de propriedade particular ou fornecida pela respectiva corporação ou instituição, mesmo fora de serviço, desde que estejam:\nI. Submetidos a regime de dedicação exclusiva.\nII. Sujeitos à formação funcional, nos termos do regulamento.\nIII. Subordinados a mecanismos de fiscalização e de controle.\nQual(is) afirmação(ões) está(ão) correta(s)?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Apenas a I."
+        },
+        {
+          "letra": "b",
+          "texto": "Apenas I e II."
+        },
+        {
+          "letra": "c",
+          "texto": "Apenas I e III."
+        },
+        {
+          "letra": "d",
+          "texto": "I, II e III."
+        }
+      ],
+      "resposta": "d",
+      "justificativa": "É a redação do art. 6º, § 1º-B, da Lei 10.826/2003: agentes e guardas prisionais do quadro efetivo podem portar arma particular ou da instituição, mesmo fora de serviço, desde que estejam submetidos a regime de dedicação exclusiva, sujeitos à formação funcional e subordinados a mecanismos de fiscalização e de controle interno. Os três requisitos valem ao mesmo tempo.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-121",
+      "origem": "banco_de_questoes",
+      "fonte": "Seleção para Instrutor de Armamento e Tiro (IAPEN/AP)",
+      "tema": "Fundamentos do tiro",
+      "tipo": "multipla_escolha",
+      "enunciado": "A Balística é a ciência que estuda as armas de fogo, o alcance e a direção dos projéteis por elas expelidos e os efeitos que produzem. Segundo esse conceito, ela pode ser dividida em:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Balística, Material Bélico e Engenharia de Armamento."
+        },
+        {
+          "letra": "b",
+          "texto": "Balística Científica, Balística Clássica e Balística Moderna."
+        },
+        {
+          "letra": "c",
+          "texto": "Balística Interna, Balística Externa e Balística de Efeitos."
+        },
+        {
+          "letra": "d",
+          "texto": "Balística, Balística de Armaria e Balística de Perícia."
+        }
+      ],
+      "resposta": "c",
+      "justificativa": "A divisão acompanha o caminho do projétil. A balística interna estuda o que acontece dentro da arma, da ignição até a saída do cano. A externa estuda a trajetória no ar. A de efeitos (ou terminal) estuda o que o projétil produz ao atingir o alvo.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-122",
+      "origem": "banco_de_questoes",
+      "fonte": "Seleção para Instrutor de Armamento e Tiro (IAPEN/AP)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "CHOQUE é um estreitamento da ALMA do CANO junto à sua boca. Essa redução tem a finalidade de:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Produzir melhor agrupamento dos chumbos, visando maior alcance."
+        },
+        {
+          "letra": "b",
+          "texto": "Produzir maior agrupamento dos chumbos, visando maior potência do tiro."
+        },
+        {
+          "letra": "c",
+          "texto": "Produzir melhor agrupamento dos chumbos e precisão do tiro (tiro agrupado no alvo)."
+        },
+        {
+          "letra": "d",
+          "texto": "Produzir melhor agrupamento dos chumbos, visando maior alcance e precisão do tiro."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "O choque aperta o feixe de chumbos na saída do cano. O feixe se abre mais devagar e continua agrupado a distâncias maiores, o que aumenta o alcance útil da espingarda. As outras alternativas acrescentam efeitos que o choque não tem: ele não aumenta a energia dos chumbos nem melhora a pontaria.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-123",
+      "origem": "banco_de_questoes",
+      "fonte": "Seleção para Instrutor de Armamento e Tiro (IAPEN/AP)",
+      "tema": "Munição",
+      "tipo": "multipla_escolha",
+      "enunciado": "As espoletas tipo BATERIA, fabricadas pela CBC, são usadas exclusivamente em cartuchos de papelão ou plástico, destinados a espingardas. Elas têm como características:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Possuem BIGORNA e são dependentes do ESTOJO."
+        },
+        {
+          "letra": "b",
+          "texto": "Não possuem BIGORNA e são independentes do ESTOJO."
+        },
+        {
+          "letra": "c",
+          "texto": "Não possuem BIGORNA e os ESTOJOS são pressurizados."
+        },
+        {
+          "letra": "d",
+          "texto": "Possuem BIGORNA e são independentes do ESTOJO."
+        }
+      ],
+      "resposta": "d",
+      "justificativa": "A espoleta tipo bateria traz a bigorna dentro de um copo próprio, montado no culote do cartucho de espingarda. Como reúne todos os elementos da ignição, ela é independente do estojo. Na espoleta Berdan, ao contrário, a bigorna faz parte do próprio estojo.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-124",
+      "origem": "banco_de_questoes",
+      "fonte": "Seleção para Instrutor de Armamento e Tiro (IAPEN/AP)",
+      "tema": "Fundamentos do tiro",
+      "tipo": "multipla_escolha",
+      "enunciado": "Pode ocorrer com os destros, fazendo com que a concentração dos disparos fique localizada entre 8 h e 10 h no alvo. Qual a causa dessa falha?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Massa de mira alta."
+        },
+        {
+          "letra": "b",
+          "texto": "Antecipação do recuo."
+        },
+        {
+          "letra": "c",
+          "texto": "Gatilhada."
+        },
+        {
+          "letra": "d",
+          "texto": "Excesso de dedo no gatilho."
+        }
+      ],
+      "resposta": "d",
+      "justificativa": "No quadro de análise de tiro para destros, impactos entre 8 h e 10 h, à esquerda do centro, indicam excesso de dedo no gatilho: o dedo entra demais no gatilho e puxa a arma para a esquerda no acionamento. A antecipação do recuo leva os tiros para cima, e a gatilhada costuma jogá-los para baixo e à esquerda.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-125",
+      "origem": "banco_de_questoes",
+      "fonte": "Seleção para Instrutor de Armamento e Tiro (IAPEN/AP)",
+      "tema": "Regulamento da prova",
+      "tipo": "multipla_escolha",
+      "enunciado": "A IN 111/2017-DG/PF estabelece as hipóteses de descredenciamento do Instrutor de Armamento e Tiro (IAT). Sobre o tema, assinale a opção CORRETA:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Atuação em estande de tiro regular ou indícios de comprometimento da capacidade técnica."
+        },
+        {
+          "letra": "b",
+          "texto": "Solicitação própria ou utilização da munição adquirida para aplicação dos testes em finalidade diversa."
+        },
+        {
+          "letra": "c",
+          "texto": "Falta de comunicação prévia das avaliações ou utilização de uniformes fora do padrão."
+        },
+        {
+          "letra": "d",
+          "texto": "Cobrança de valores superiores aos previstos ou não portar o certificado de credenciamento."
+        }
+      ],
+      "resposta": "b",
+      "justificativa": "O art. 18 da IN 111/2017-DG/PF prevê o descredenciamento por solicitação própria, a qualquer tempo (inciso IX), e pela utilização da munição adquirida para os testes em outros fins (inciso XI). Nas outras alternativas só metade está na lista: a norma fala em atuação em estande irregular (e não regular) e não trata de uniforme nem de portar o certificado.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-126",
+      "origem": "banco_de_questoes",
+      "fonte": "Seleção para Instrutor de Armamento e Tiro (IAPEN/AP)",
+      "tema": "Normas de segurança",
+      "tipo": "multipla_escolha",
+      "enunciado": "No momento do disparo, ao perceber algo anormal no recuo ou no som da detonação, que possa indicar retardo na deflagração do cartucho, o atirador deve:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Manter a arma apontada em direção ao alvo por alguns segundos e só depois realizar a inspeção."
+        },
+        {
+          "letra": "b",
+          "texto": "Realizar o disparo seguinte para ciclar a arma e desobstruir o cano."
+        },
+        {
+          "letra": "c",
+          "texto": "Realizar a inspeção da arma imediatamente e prosseguir com os demais disparos."
+        },
+        {
+          "letra": "d",
+          "texto": "Remuniciar a arma com munição mais potente e efetuar os demais disparos."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "Recuo ou estampido fracos podem indicar retardo na deflagração ou um projétil preso no cano. O atirador mantém a arma apontada para o alvo por alguns segundos, porque o cartucho ainda pode disparar, e só depois inspeciona. Atirar de novo com um projétil preso pode romper o cano.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-127",
+      "origem": "banco_de_questoes",
+      "fonte": "Seleção para Instrutor de Armamento e Tiro (IAPEN/AP)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quanto ao passo do raiamento, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "É a distância necessária para que o projétil complete uma volta sobre seu eixo."
+        },
+        {
+          "letra": "b",
+          "texto": "O passo do raiamento é sempre constante durante toda a extensão do cano."
+        },
+        {
+          "letra": "c",
+          "texto": "O projétil sempre deverá realizar a volta completa sobre seu eixo dentro do cano."
+        },
+        {
+          "letra": "d",
+          "texto": "Um cano com passo de raiamento de 1:7\" deverá ter, obrigatoriamente, 7\" de comprimento."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "Passo do raiamento é a distância que o projétil percorre no cano para dar uma volta completa sobre o próprio eixo. Ele pode ser progressivo, então não é sempre constante. O projétil não precisa completar a volta dentro do cano, e um passo de 1:7\" não exige cano de 7 polegadas: indica uma volta a cada 7 polegadas.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-128",
+      "origem": "banco_de_questoes",
+      "fonte": "Seleção para Instrutor de Armamento e Tiro (IAPEN/AP)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quanto ao sentido de rotação dos projéteis, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "O sentido de rotação do projétil serve de critério de classificação para arma de fogo."
+        },
+        {
+          "letra": "b",
+          "texto": "Podemos classificar os sentidos em DEXTRÓGIRO, SINISTRÓGIRO e NEUTRO."
+        },
+        {
+          "letra": "c",
+          "texto": "DEXTRÓGIRO possui sentido de giro à direita e NEUTRO possui raias paralelas, sem giro."
+        },
+        {
+          "letra": "d",
+          "texto": "Para garantir a estabilização, as raias sempre serão em quantidade múltipla de 2."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "O sentido das raias, e portanto da rotação do projétil, classifica as armas raiadas em dextrógiras (giro para a direita) ou sinistrógiras (para a esquerda). Não existe raiamento \"neutro\": raias paralelas ao eixo não fariam o projétil girar. O número de raias também não precisa ser par; há canos com 5 ou 7 raias.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-129",
+      "origem": "banco_de_questoes",
+      "fonte": "Seleção para Instrutor de Armamento e Tiro (IAPEN/AP)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quanto à barra de transferência (ou de percussão) dos revólveres, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "É utilizada em revólveres com sistemas de segurança modernos."
+        },
+        {
+          "letra": "b",
+          "texto": "Disparos causados por quedas podem ocorrer com este sistema."
+        },
+        {
+          "letra": "c",
+          "texto": "Faz parte do sistema de repetição do revólver."
+        },
+        {
+          "letra": "d",
+          "texto": "O percussor é fixado diretamente ao cão."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "A barra de transferência é um dispositivo de segurança dos revólveres modernos. O percussor fica na armação, e o cão só o atinge através da barra, que sobe quando o gatilho está totalmente acionado. Com o gatilho solto, o cão bate na armação e não no percussor, o que impede o disparo por queda.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-130",
+      "origem": "banco_de_questoes",
+      "fonte": "Seleção para Instrutor de Armamento e Tiro (IAPEN/AP)",
+      "tema": "Fundamentos do tiro",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quanto ao quadro de análise de tiro, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Possibilita a verificação da existência de erros de procedimento através da análise dos pontos de impacto."
+        },
+        {
+          "letra": "b",
+          "texto": "Não é capaz de sugerir erros específicos por ser muito limitado à avaliação da arma."
+        },
+        {
+          "letra": "c",
+          "texto": "Alterações ou desvios na arma utilizada não interferem nos resultados."
+        },
+        {
+          "letra": "d",
+          "texto": "Falhas no manuseio são verificadas através da pontuação alcançada no alvo."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "O quadro de análise de tiro relaciona a posição dos impactos no alvo a erros do atirador, como antecipar o recuo ou pôr dedo demais no gatilho. Ele olha onde os tiros caíram, e não a pontuação. Antes de usá-lo, convém descartar problemas na arma, como a mira desregulada, que também deslocam os impactos.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-131",
+      "origem": "banco_de_questoes",
+      "fonte": "Seleção para Instrutor de Armamento e Tiro (IAPEN/AP)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "Analise os itens abaixo e marque a alternativa correspondente:\nI. Arremessar projéteis empregando a força expansiva dos gases gerados pela combustão de um propelente confinado em uma câmara é o conceito de munição.\nII. Uma arma de fogo portátil possui dimensões e peso reduzidos, podendo ser portada por um indivíduo em um coldre e disparada, comodamente, com somente uma das mãos.\nIII. Antecarga e retrocarga são sistemas de alimentação/carregamento de uma arma de fogo.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Os itens II e III são falsos."
+        },
+        {
+          "letra": "b",
+          "texto": "Os itens I e II são falsos."
+        },
+        {
+          "letra": "c",
+          "texto": "Os itens II e III são verdadeiros."
+        },
+        {
+          "letra": "d",
+          "texto": "Os itens I e II são verdadeiros."
+        }
+      ],
+      "resposta": "b",
+      "justificativa": "I é falso: essa é a definição de arma de fogo, e não de munição. II é falso: a arma que vai no coldre e é disparada com uma só mão é a arma de porte; a portátil é transportada por uma pessoa, mas exige as duas mãos. III é verdadeiro: antecarga e retrocarga são os sistemas de carregamento.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-132",
+      "origem": "banco_de_questoes",
+      "fonte": "Seleção para Instrutor de Armamento e Tiro (IAPEN/AP)",
+      "tema": "Munição",
+      "tipo": "multipla_escolha",
+      "enunciado": "Analise os itens abaixo e marque a alternativa correspondente:\nI. Os cartuchos metálicos são subdivididos, de acordo com seu modo de ignição, em fogo central e fogo circular, sendo que este último tem o composto iniciador localizado nas áreas externas ao aro.\nII. A maioria dos cartuchos de caça é carregada com vários projéteis (bagos) de chumbo, sendo que o número de bagos no interior do cartucho determina o calibre da arma, como no caso da espingarda calibre 12.\nIII. O calibre real é o diâmetro entre cheios do cano da arma.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Apenas a I está correta."
+        },
+        {
+          "letra": "b",
+          "texto": "Apenas I e III estão corretas."
+        },
+        {
+          "letra": "c",
+          "texto": "Apenas II e III estão corretas."
+        },
+        {
+          "letra": "d",
+          "texto": "I, II e III estão corretas."
+        }
+      ],
+      "resposta": "b",
+      "justificativa": "II é falso: o calibre de uma espingarda, como o 12, é o número de esferas de chumbo do diâmetro do cano necessárias para formar uma libra, e não o número de bagos do cartucho. III é verdadeiro: o calibre real é medido entre os cheios. Sobra a alternativa (b), que dá o item I como correto.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false,
+      "observacao": "O item I está mal redigido: no cartucho de fogo circular, o composto iniciador fica dentro do aro oco, na periferia da base, e não fora dele. Como nenhuma alternativa traz \"apenas a III\", o gabarito considera o item I correto."
+    },
+    {
+      "id": "BQ-133",
+      "origem": "banco_de_questoes",
+      "fonte": "Seleção para Instrutor de Armamento e Tiro (IAPEN/AP)",
+      "tema": "Munição",
+      "tipo": "multipla_escolha",
+      "enunciado": "Analise os itens abaixo e marque a alternativa correspondente:\nI. Munição pode ser definida como um artefato completo, pronto para carregamento e disparo de uma arma, tendo entre diversos efeitos esperados os seguintes: destruição, efeito moral sobre pessoal e sinalização.\nII. Estojo é o componente de união mecânica do cartucho. Possibilita que todos os componentes necessários ao disparo fiquem unidos em uma única peça, o que facilita o manejo da arma e acelera o processo de carregamento.\nIII. O estojo sela a câmara de explosão em todas as direções.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Todos os itens são verdadeiros."
+        },
+        {
+          "letra": "b",
+          "texto": "Os itens I e III são falsos."
+        },
+        {
+          "letra": "c",
+          "texto": "Os itens II e III são verdadeiros."
+        },
+        {
+          "letra": "d",
+          "texto": "Os itens I e II são verdadeiros."
+        }
+      ],
+      "resposta": "d",
+      "justificativa": "I e II reproduzem as definições de munição e de estojo. III é falso: ao dilatar, o estojo veda a câmara para trás (obturação da culatra), impedindo que os gases escapem na direção do atirador. Pela frente, os gases saem empurrando o projétil.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-134",
+      "origem": "banco_de_questoes",
+      "fonte": "Seleção para Instrutor de Armamento e Tiro (IAPEN/AP)",
+      "tema": "Fundamentos do tiro",
+      "tipo": "multipla_escolha",
+      "enunciado": "Analise os itens abaixo e marque a alternativa correspondente:\nI. O passo do raiamento é a distância em que o projétil realiza uma volta completa em torno do seu próprio eixo.\nII. A balística externa estuda o deslocamento do projétil após a sua saída do cano até o momento em que atinge o alvo.\nIII. Após sair do cano, o projétil seguirá a trajetória, ou curva balística, que dependerá da inclinação do cano em relação ao solo.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Todos os itens são verdadeiros."
+        },
+        {
+          "letra": "b",
+          "texto": "Os itens I e III são falsos."
+        },
+        {
+          "letra": "c",
+          "texto": "Os itens II e III são verdadeiros."
+        },
+        {
+          "letra": "d",
+          "texto": "Os itens I e II são falsos."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "Os três itens estão certos. O passo é a distância de uma volta completa do projétil (I). A balística externa vai da saída do cano até o alvo (II). E a trajetória depende do ângulo do cano em relação ao solo, além da velocidade, do formato do projétil e da resistência do ar (III). A alternativa (c) também é verdadeira, mas incompleta.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-135",
+      "origem": "banco_de_questoes",
+      "fonte": "Seleção para Instrutor de Armamento e Tiro (IAPEN/AP)",
+      "tema": "Regulamento da prova",
+      "tipo": "multipla_escolha",
+      "enunciado": "Analise os itens abaixo e marque a alternativa correspondente:\nI. A IN 111-DG/PF estabelece que o IAT credenciado deverá comunicar à delegacia da PF responsável, com três dias úteis de antecedência, o local, a data e o horário da aplicação dos testes de capacidade.\nII. A IN 111-DG/PF proíbe que o IAT credenciado aplique cursos de capacitação e aprimoramento em armamento e tiro.\nIII. A IN 111-DG/PF estabelece a idade mínima de 25 anos para o IAT se candidatar ao credenciamento de instrutor de armamento e tiro, salvo nas hipóteses especiais.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Todos os itens são verdadeiros."
+        },
+        {
+          "letra": "b",
+          "texto": "Os itens I e III são verdadeiros."
+        },
+        {
+          "letra": "c",
+          "texto": "Os itens II e III são falsos."
+        },
+        {
+          "letra": "d",
+          "texto": "Os itens I e II são falsos."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "Os três itens estão na IN 111/2017-DG/PF. O IAT comunica à unidade da PF o local, a data e o horário dos testes com pelo menos três dias úteis de antecedência (art. 2º, § 8º). O art. 6º, § 1º, proíbe o IAT de usar o credenciamento para ministrar curso de armamento e tiro, salvo nos cursos de formação de vigilantes e de guardas municipais. E o art. 6º, IV, exige idade mínima de 25 anos, salvo nas hipóteses do art. 28 da Lei 10.826/2003.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false,
+      "observacao": "O item II resume o art. 6º, § 1º, que veda usar o credenciamento para dar cursos, com exceções. Se a banca tiver considerado esse item falso, a resposta seria (b)."
     },
     {
       "id": "GA-001",
