@@ -9,7 +9,7 @@
     "gabarito_origem": "fornecido (gabarito do simulado original) | inferido (original sem gabarito) | revisado (gabarito original corrigido ou questão adaptada) | gerado",
     "desatualizada": "true quando a resposta depende de norma revogada ou alterada"
   },
-  "total": 219,
+  "total": 234,
   "questoes": [
     {
       "id": "BQ-001",
@@ -3192,6 +3192,399 @@
       "gabarito_origem": "inferido",
       "desatualizada": false,
       "observacao": "O item II resume o art. 6º, § 1º, que veda usar o credenciamento para dar cursos, com exceções. Se a banca tiver considerado esse item falso, a resposta seria (b)."
+    },
+    {
+      "id": "BQ-136",
+      "origem": "banco_de_questoes",
+      "fonte": "Prova de capacidade técnica – múltipla escolha (PF/PA)",
+      "tema": "Nomenclatura e funcionamento",
+      "tipo": "multipla_escolha",
+      "enunciado": "Marque a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "A função da rampa de alimentação de uma pistola semiautomática é permitir a condução da munição, que foi apresentada pelo carregador, até a câmara de explosão, fazendo assim com que a arma possa ser alimentada corretamente."
+        },
+        {
+          "letra": "b",
+          "texto": "A função do cão ou martelo de uma pistola modelo PT58 é transferir a energia necessária para ejetar o estojo."
+        },
+        {
+          "letra": "c",
+          "texto": "A função do ferrolho é alimentar o carregador de uma pistola semiautomática."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "A rampa de alimentação, logo abaixo da entrada da câmara, guia até ela o cartucho que o carregador apresenta quando o ferrolho avança. A (b) está errada: o cão transfere energia ao percussor, que golpeia a espoleta; quem lança o estojo para fora da arma é o ejetor, no recuo do ferrolho. A (c) também: quem municia o carregador é o atirador, e o ferrolho, ao avançar, retira o cartucho do carregador e o leva à câmara.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-137",
+      "origem": "banco_de_questoes",
+      "fonte": "Prova de capacidade técnica – múltipla escolha (PF/PA)",
+      "tema": "Conduta no estande",
+      "tipo": "multipla_escolha",
+      "enunciado": "Marque a alternativa INCORRETA:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "O silêncio é fator importante para a segurança e deverá ser rigorosamente respeitado na linha de tiro."
+        },
+        {
+          "letra": "b",
+          "texto": "Todo procedimento de carregar, sacar, descarregar e colocar a arma no coldre será realizado sob comando do instrutor, com o dedo fora do gatilho."
+        },
+        {
+          "letra": "c",
+          "texto": "Durante uma instrução de tiro, na ocorrência de uma pane na arma ou falha da munição, o aluno deve levantar o braço da mão de apoio, manter a arma apontada em direção ao alvo durante alguns segundos e, logo após, solucionar a pane o mais rápido possível por conta própria, utilizando as técnicas ensinadas de solução de panes de armas."
+        }
+      ],
+      "resposta": "c",
+      "justificativa": "Em caso de pane ou falha da munição, o aluno permanece de frente para o alvo, com a arma apontada para ele, levanta o braço livre e aguarda o instrutor; não resolve a pane por conta própria. As alternativas (a) e (b) são regras de conduta no estande da cartilha.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-138",
+      "origem": "banco_de_questoes",
+      "fonte": "Prova de capacidade técnica – múltipla escolha (PF/PA)",
+      "tema": "Conduta no estande",
+      "tipo": "multipla_escolha",
+      "enunciado": "Marque a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Devemos ter total cuidado ao efetuarmos disparos em superfícies planas e duras, pois os projéteis podem ricochetear. Por outro lado, superfícies que têm a consistência para absorver os impactos, como areia, borracha e madeira, comumente usadas como anteparo nos estandes de tiro, não possuem essa característica de propiciar ricochetes dos projéteis."
+        },
+        {
+          "letra": "b",
+          "texto": "Durante uma instrução de tiro, é autorizado o consumo de qualquer tipo de bebida ou alimento."
+        },
+        {
+          "letra": "c",
+          "texto": "Obedeça ao instrutor, sempre antecipando a execução de seus comandos quando achar necessário."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "Superfícies planas e duras, e também a água, favorecem o ricochete; por isso os anteparos dos estandes usam materiais que absorvem o projétil, como areia, borracha e madeira. A (b) está errada: \"qualquer tipo de bebida\" inclui álcool, e ninguém manuseia arma sob efeito de bebida alcoólica; comer na linha de tiro também leva à boca resíduos de chumbo. A (c) também: o atirador executa só o que o instrutor manda e nunca antecipa comandos.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false,
+      "observacao": "A alternativa (a) simplifica: areia, borracha e madeira reduzem muito o ricochete, mas um projétil que atinge esses materiais em ângulo muito fechado ainda pode ricochetear. Mesmo assim, é a única alternativa correta."
+    },
+    {
+      "id": "BQ-139",
+      "origem": "banco_de_questoes",
+      "fonte": "Prova de capacidade técnica – múltipla escolha (PF/PA)",
+      "tema": "Conduta no estande",
+      "tipo": "multipla_escolha",
+      "enunciado": "No estande de tiro, a conduta do atirador é de vital importância na execução das atividades com o armamento, e, de acordo com orientações expressas do instrutor, a arma deverá permanecer:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Carregada e municiada."
+        },
+        {
+          "letra": "b",
+          "texto": "Desmuniciada e guardada."
+        },
+        {
+          "letra": "c",
+          "texto": "Alimentada e travada."
+        }
+      ],
+      "resposta": "b",
+      "justificativa": "Regra de conduta no estande da cartilha: a arma permanece sempre desmuniciada e guardada, salvo sob comando expresso do instrutor. Ela só é carregada na linha de tiro, quando o instrutor manda.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-140",
+      "origem": "banco_de_questoes",
+      "fonte": "Prova de capacidade técnica – múltipla escolha (PF/PA)",
+      "tema": "Normas de segurança",
+      "tipo": "multipla_escolha",
+      "enunciado": "Marque a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Sempre testar as travas de segurança da arma, acionando a tecla do gatilho."
+        },
+        {
+          "letra": "b",
+          "texto": "Deixar a arma sempre engatilhada."
+        },
+        {
+          "letra": "c",
+          "texto": "Uma arma de fogo somente poderá ser apontada para um local seguro que ofereça total segurança quanto a um disparo acidental, ou quando houver a decisão e a necessidade de se fazer o uso da mesma."
+        }
+      ],
+      "resposta": "c",
+      "justificativa": "A arma só é apontada para uma direção segura ou para aquilo em que se decidiu atirar. A (a) contraria a norma que proíbe testar as travas acionando o gatilho, já que a trava pode falhar. A (b) contraria a norma de não transportar nem coldrear a arma com o cão armado.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-141",
+      "origem": "banco_de_questoes",
+      "fonte": "Prova de capacidade técnica – múltipla escolha (PF/PA)",
+      "tema": "Normas de segurança",
+      "tipo": "multipla_escolha",
+      "enunciado": "A única regra de segurança que, obedecida, elimina totalmente o risco de um disparo acidental (considerando o armamento em perfeito estado de funcionamento) e dispensa a observância das demais é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Manter a arma sempre travada."
+        },
+        {
+          "letra": "b",
+          "texto": "Permanecer com o dedo sempre fora do gatilho."
+        },
+        {
+          "letra": "c",
+          "texto": "Nenhuma das alternativas anteriores."
+        }
+      ],
+      "resposta": "c",
+      "justificativa": "Nenhuma regra de segurança dispensa as outras: elas se somam, e cada uma cobre a falha de outra. A trava é um dispositivo mecânico que pode falhar. O dedo fora do gatilho evita a maioria dos disparos involuntários, mas não dispensa o controle do cano, a verificação da arma nem o cuidado com o cão armado.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false,
+      "observacao": "A prova não trazia gabarito. O parêntese do enunciado pode levar a marcar a (b), mas a expressão \"dispensa a observância das demais\" faz da (c) a resposta."
+    },
+    {
+      "id": "BQ-142",
+      "origem": "banco_de_questoes",
+      "fonte": "Prova de capacidade técnica – múltipla escolha (PF/PA)",
+      "tema": "Normas de segurança",
+      "tipo": "multipla_escolha",
+      "enunciado": "NÃO é considerada uma norma de segurança no manuseio de armas de fogo:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Nunca deixar uma arma de forma descuidada."
+        },
+        {
+          "letra": "b",
+          "texto": "Deixar a arma sempre engatilhada."
+        },
+        {
+          "letra": "c",
+          "texto": "Verificar se a munição corresponde ao tamanho e ao calibre da arma."
+        }
+      ],
+      "resposta": "b",
+      "justificativa": "A arma engatilhada (com o cão armado) tem o gatilho mais leve e fica mais sujeita a disparo acidental; a norma manda não transportar nem coldrear a arma com o cão armado. Não deixar a arma descuidada e conferir se a munição é do calibre da arma são normas de segurança da cartilha.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-143",
+      "origem": "banco_de_questoes",
+      "fonte": "Prova de capacidade técnica – múltipla escolha (PF/PA)",
+      "tema": "Normas de segurança",
+      "tipo": "multipla_escolha",
+      "enunciado": "Nas afirmativas abaixo, marque a alternativa INCORRETA:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Antes de utilizar uma arma de fogo, deve-se sempre obter informações sobre como manuseá-la com um instrutor certificado."
+        },
+        {
+          "letra": "b",
+          "texto": "Armas e munições devem sempre ser guardadas juntas."
+        },
+        {
+          "letra": "c",
+          "texto": "Ao sacar ou coldrear uma arma, deve-se sempre manter o dedo estendido ao longo da armação, ou seja, fora do gatilho."
+        }
+      ],
+      "resposta": "b",
+      "justificativa": "A norma diz o contrário: armas e munições são guardadas separadamente e fora do alcance de crianças. As alternativas (a) e (c) são normas de segurança da cartilha.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-144",
+      "origem": "banco_de_questoes",
+      "fonte": "Prova de capacidade técnica – múltipla escolha (PF/PA)",
+      "tema": "Normas de segurança",
+      "tipo": "multipla_escolha",
+      "enunciado": "Nas afirmativas abaixo, marque a alternativa INCORRETA:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "A utilização de óculos e abafadores é opcional quando se estiver atirando em um estande."
+        },
+        {
+          "letra": "b",
+          "texto": "Sempre entregar a arma descarregada."
+        },
+        {
+          "letra": "c",
+          "texto": "Tratar a arma como se estivesse sempre carregada."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "Óculos protetores e abafadores de ruído são obrigatórios sempre que se estiver atirando (norma de segurança nº 24 da cartilha). Entregar a arma descarregada e tratá-la como se estivesse sempre carregada são normas de segurança.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-145",
+      "origem": "banco_de_questoes",
+      "fonte": "Prova de capacidade técnica – múltipla escolha (PF/PA)",
+      "tema": "Normas de segurança",
+      "tipo": "multipla_escolha",
+      "enunciado": "Ao manusear uma arma de fogo, é necessário se atentar a todas as regras previstas para que não se coloque em risco sua própria vida e a de terceiros. Desta forma, marque a alternativa em que estão corretas todas as condutas durante o manuseio de uma arma de fogo:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Sempre que carregar ou descarregar uma arma, faça com o cano apontado para uma direção segura; caso a arma “negue fogo”, mantenha-a apontada para o alvo por alguns segundos, pois em alguns casos pode haver um retardamento de ignição do cartucho; sempre que pegar uma arma, verifique se ela está realmente carregada e com o cão armado."
+        },
+        {
+          "letra": "b",
+          "texto": "Certifique-se de que o alvo e a zona que o circunda sejam capazes de receber os impactos de disparos com a máxima segurança; nunca atire em superfícies planas e duras ou em água, porque os projéteis podem ricochetear; nunca pegue ou receba uma arma com o cano apontado em sua direção."
+        },
+        {
+          "letra": "c",
+          "texto": "Verifique se a munição corresponde ao tamanho e ao calibre da arma, podendo-se utilizar munição diferente; sempre utilize óculos protetores e abafadores de ruídos quando estiver atirando; munição velha não é confiável e pode ser perigosa."
+        }
+      ],
+      "resposta": "b",
+      "justificativa": "As três condutas da (b) são normas de segurança da cartilha. A (a) erra no fim: ao pegar uma arma, verifica-se se ela está carregada, mas ela não deve estar com o cão armado. A (c) erra no início: a munição deve corresponder ao calibre da arma, e munição diferente pode causar pane ou danificar a arma.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-146",
+      "origem": "banco_de_questoes",
+      "fonte": "Prova de capacidade técnica – múltipla escolha (PF/PA)",
+      "tema": "Legislação",
+      "tipo": "multipla_escolha",
+      "enunciado": "Dentre os requisitos para aquisição de arma de fogo de uso permitido, NÃO se inclui:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Idade mínima de 18 anos."
+        },
+        {
+          "letra": "b",
+          "texto": "Declaração de efetiva necessidade."
+        },
+        {
+          "letra": "c",
+          "texto": "Comprovação de capacidade técnica e de aptidão psicológica."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "A idade mínima para adquirir arma de fogo é de 25 anos (art. 28 da Lei 10.826/2003), não 18. A declaração de efetiva necessidade e a comprovação de capacidade técnica e de aptidão psicológica estão no art. 4º da mesma lei.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-147",
+      "origem": "banco_de_questoes",
+      "fonte": "Prova de capacidade técnica – múltipla escolha (PF/PA)",
+      "tema": "Legislação",
+      "tipo": "multipla_escolha",
+      "enunciado": "Marque a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "O certificado de registro de arma de fogo será expedido pela Polícia Civil e será precedido de autorização do SIGMA."
+        },
+        {
+          "letra": "b",
+          "texto": "É considerado crime pela legislação pertinente disparar arma de fogo ou acionar munição em lugar habitado ou em suas adjacências, em via pública ou em direção a ela."
+        },
+        {
+          "letra": "c",
+          "texto": "Não se considera crime modificar as características de arma de fogo, de forma a torná-la equivalente a arma de fogo de uso proibido ou restrito ou para fins de dificultar ou de qualquer modo induzir a erro autoridade policial, perito ou juiz."
+        }
+      ],
+      "resposta": "b",
+      "justificativa": "É o crime de disparo de arma de fogo, do art. 15 da Lei 10.826/2003. A (a) está errada: o CRAF é expedido pela Polícia Federal e precedido de autorização do Sinarm (art. 5º, § 1º). A (c) também: modificar as características da arma dessa forma é crime, com a mesma pena da posse ou do porte ilegal de arma de uso restrito (art. 16, § 1º, II).",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-148",
+      "origem": "banco_de_questoes",
+      "fonte": "Prova de capacidade técnica – múltipla escolha (PF/PA)",
+      "tema": "Legislação",
+      "tipo": "multipla_escolha",
+      "enunciado": "Nos termos da Lei n.º 10.826/03, quem favorece a entrada ou saída do território nacional, a qualquer título, de arma de fogo, acessório ou munição, sem autorização da autoridade competente, comete o crime de:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Omissão de cautela."
+        },
+        {
+          "letra": "b",
+          "texto": "Porte ilegal de arma de fogo de uso restrito."
+        },
+        {
+          "letra": "c",
+          "texto": "Tráfico internacional de arma de fogo."
+        }
+      ],
+      "resposta": "c",
+      "justificativa": "É o tráfico internacional de arma de fogo, do art. 18 da Lei 10.826/2003: importar, exportar ou favorecer a entrada ou saída do território nacional de arma, acessório ou munição sem autorização, com pena de reclusão de 8 a 16 anos e multa. A omissão de cautela (art. 13) é deixar de tomar os cuidados para impedir que menor de 18 anos ou pessoa com deficiência mental se apodere da arma.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-149",
+      "origem": "banco_de_questoes",
+      "fonte": "Prova de capacidade técnica – múltipla escolha (PF/PA)",
+      "tema": "Legislação",
+      "tipo": "multipla_escolha",
+      "enunciado": "Segundo o art. 4º da Lei Federal 10.826/03, há o entendimento de que, para adquirir arma de fogo de uso permitido, o interessado deverá, além de declarar a efetiva necessidade, atender aos seguintes requisitos, EXCLUINDO:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Comprovação de idoneidade, com a apresentação de certidões negativas de antecedentes criminais fornecidas pela Justiça Federal, Estadual, Militar e Eleitoral."
+        },
+        {
+          "letra": "b",
+          "texto": "Apresentação de documento comprobatório de ocupação lícita."
+        },
+        {
+          "letra": "c",
+          "texto": "Comprovação única de residência própria na forma disposta no regulamento desta Lei."
+        }
+      ],
+      "resposta": "c",
+      "justificativa": "O art. 4º, II, exige documento que comprove ocupação lícita e residência certa; a lei não exige que a residência seja própria. A comprovação de idoneidade com certidões negativas está no inciso I.",
+      "gabarito_origem": "inferido",
+      "desatualizada": false
+    },
+    {
+      "id": "BQ-150",
+      "origem": "banco_de_questoes",
+      "fonte": "Prova de capacidade técnica – múltipla escolha (PF/PA)",
+      "tema": "Legislação",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qualquer cidadão comum que queira adquirir arma de fogo deverá declarar a necessidade e atender a vários requisitos elencados no Estatuto do Desarmamento. Após todos os requisitos terem sido comprovados, a emissão do porte de arma é realizada:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Pela Polícia Federal."
+        },
+        {
+          "letra": "b",
+          "texto": "Pelo Comando do Exército."
+        },
+        {
+          "letra": "c",
+          "texto": "Pelo Ministério da Justiça."
+        }
+      ],
+      "resposta": "a",
+      "justificativa": "A autorização de porte de arma de fogo de uso permitido para o cidadão comum é de competência da Polícia Federal e depende de autorização do Sinarm (art. 10 da Lei 10.826/2003).",
+      "gabarito_origem": "inferido",
+      "desatualizada": false,
+      "observacao": "O enunciado mistura aquisição e porte. Cumprir os requisitos de aquisição dá direito ao registro (CRAF), que só autoriza manter a arma em casa ou no local de trabalho; o porte tem requisitos próprios no art. 10, como demonstrar efetiva necessidade por atividade profissional de risco ou ameaça à integridade física."
     },
     {
       "id": "GA-001",
