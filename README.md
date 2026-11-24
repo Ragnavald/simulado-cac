@@ -4,7 +4,7 @@ Site de estudo para a prova teórica de capacidade técnica para manuseio de arm
 
 O que o site tem:
 
-- **Simulado da prova:** 20 questões na divisão do regulamento (6 de normas de segurança, 6 de nomenclatura e funcionamento, 5 de legislação, 3 de conduta no estande), aprovação com 12 acertos, gabarito comentado no fim. Abre como um caderno de prova em PDF: capa, folhas A4 que vão sendo desenhadas enquanto a pessoa rola, alternativas marcadas com caneta azul e folha de respostas ao lado (no celular, numa gaveta).
+- **Simulado da prova:** 20 questões na divisão do regulamento (6 de normas de segurança, 6 de nomenclatura e funcionamento, 5 de legislação, 3 de conduta no estande), aprovação com 12 acertos, gabarito comentado no fim. Abre direto na prova, como um caderno em PDF: folhas A4 que vão sendo desenhadas enquanto a pessoa rola, alternativas marcadas com caneta azul e folha de respostas ao lado (no celular, numa gaveta).
 - **Prova anterior:** a prova de seleção do IAPEN/AP para o curso de instrutor de armamento e tiro, com as 35 questões na ordem original, no mesmo formato de caderno.
 - **Treino por tema:** escolha de temas, tipo e quantidade, com a explicação logo após cada resposta.
 - **Revisar erros:** as questões erradas voltam até a pessoa acertar.
